@@ -1,3 +1,3 @@
 # leetcode
 
-因leetcode目前不支持php，修炼java中。。。
+leetcodes上对用题目的练习
