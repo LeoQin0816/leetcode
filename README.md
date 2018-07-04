@@ -1,3 +1,11 @@
-# leetcode
+## LeetCode
 
-#### [Java解决方案](https://github.com/leoqin0816/leetcode/tree/master/Java)
+---
+
+#### Algorithms
+
+Squence | Title | Difficulty | Solution
+:---:|:---:|:---:|:---:
+771 | Jewels and Stones | Easy | [Java]
+
+
