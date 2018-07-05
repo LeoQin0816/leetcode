@@ -41,7 +41,7 @@ S 和 J 最多含有50个字母。
 J 中的字符不重复。
  */
 
-class Solution {
+class Solution771 {
     public int numJewelsInStones(String J, String S) {
         int res = 0;
         Set setJ = new HashSet();
@@ -51,7 +51,7 @@ class Solution {
     }
 
     public static void main(String[] args) {
-        System.out.println(new Solution().numJewelsInStones("aA", "aAAbbb"));
-        System.out.println(new Solution().numJewelsInStones("z", "ZZ"));
+        System.out.println(new Solution771().numJewelsInStones("aA", "aAAbbb"));
+        System.out.println(new Solution771().numJewelsInStones("z", "ZZ"));
     }
 }
