@@ -52,6 +52,12 @@ Notes:
 0 <= A[i][j] <= 1
  */
 
+/**
+ * 思路: 每个数字与其对应位置的数字
+ *      相同则为其位异或值
+ *      不同则为其本身
+ */
+
 import java.util.Arrays;
 
 class Solution832 {
