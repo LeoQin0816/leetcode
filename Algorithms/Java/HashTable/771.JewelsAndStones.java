@@ -1,3 +1,5 @@
+package HashTable;
+
 /*
 Jewels and Stones
 

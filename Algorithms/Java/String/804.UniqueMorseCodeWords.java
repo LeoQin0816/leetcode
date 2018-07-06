@@ -1,3 +1,5 @@
+package HashTable.String;
+
 /*
 Unique Morse Code Words
 
@@ -63,7 +65,7 @@ import java.util.Set;
 
 class Solution804 {
     public int uniqueMorseRepresentations(String[] words) {
-        String[] d = {".-", "-...", "-.-.", "-..", ".", "..-.", "--.", "....", "..", ".---", "-.-", ".-..", "--", "-.", "---", ".--.", "--.-", ".-.", "...", "-", "..-", "...-", ".--", "-..-", "-.--", "--.."};
+        String[] d = {".-", "-...", "-.-.", "-..", ".", "..-.", "--.", "....", "", ".---", "-.-", ".-..", "--", "-.", "---", ".--.", "--.-", ".-.", "...", "-", "..-", "...-", ".--", "-..-", "-.--", "--.."};
         Set<String> s = new HashSet<>();
         for (String word : words) {
             String code = "";
