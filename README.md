@@ -4,6 +4,7 @@
 
 Squence | Title | Difficulty | Solution | Topic
 :---|:---|:---:|:---:|:---
+344 | Reverse String(反转字符串) | Easy | [Java](https://github.com/leoqin0816/leetcode/blob/master/Algorithms/Java/String/344.ReverseString.java) | String(字符串),Two Pointers(双指针)
 461 | Hamming Distance(汉明距离) | Easy | [Java](https://github.com/leoqin0816/leetcode/blob/master/Algorithms/Java/BitManipulation/461.HammingDistance.java) | Bit Manipulation(位运算)
 476 | Number Complement(数字的补数) | Easy | [Java](https://github.com/leoqin0816/leetcode/blob/master/Algorithms/Java/BitManipulation/476.NumberComplement.java) | Bit Manipulation(位运算)
 561 | Array Partition I(数组拆分 I) | Easy | [Java](https://github.com/leoqin0816/leetcode/blob/master/Algorithms/Java/Array/561.ArrayPartitionI.java) | Array(数组)
