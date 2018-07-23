@@ -11,6 +11,7 @@ Squence | Title | Difficulty | Solution | Topic
 500 ❤ | Keyboard Row(键盘行) | Easy | [Java](https://github.com/leoqin0816/leetcode/blob/master/Algorithms/Java/HashTable/500.KeyboardRow.java) | Hash Table(哈希表)
 557 | Reverse Words in a String III(反转字符串中的单词 III) | Easy | [Java](https://github.com/leoqin0816/leetcode/blob/master/Algorithms/Java/String/557.ReverseWordsInAStringIII.java) | String(字符串)
 561 | Array Partition I(数组拆分 I) | Easy | [Java](https://github.com/leoqin0816/leetcode/blob/master/Algorithms/Java/Array/561.ArrayPartitionI.java) | Array(数组)
+575 | Distribute Candies(分糖果) | Easy | [Java](https://github.com/leoqin0816/leetcode/blob/master/Algorithms/Java/HashTable/575.DistributeCandies.java) | Hash Table(哈希表)
 617 ❤ | Merge Two Binary Trees(合并二叉树) | Easy | [Java](https://github.com/leoqin0816/leetcode/blob/master/Algorithms/Java/Tree/617.MergeTwoBinaryTrees.java) | Tree(树)
 657 | Judge Route Circle(判断路线成圈) | Easy | [Java](https://github.com/leoqin0816/leetcode/blob/master/Algorithms/Java/String/657.JudgeRouteCircle.java) | String(字符串)
 682 | Baseball Game(棒球比赛) | Easy | [Java](https://github.com/leoqin0816/leetcode/blob/master/Algorithms/Java/Stack/682.BaseballGame.java) | Stack(栈)
