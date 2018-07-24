@@ -14,6 +14,7 @@ Squence | Title | Difficulty | Solution | Topic
 575 | Distribute Candies(分糖果) | Easy | [Java](https://github.com/leoqin0816/leetcode/blob/master/Algorithms/Java/HashTable/575.DistributeCandies.java) | Hash Table(哈希表)
 617 ❤ | Merge Two Binary Trees(合并二叉树) | Easy | [Java](https://github.com/leoqin0816/leetcode/blob/master/Algorithms/Java/Tree/617.MergeTwoBinaryTrees.java) | Tree(树)
 657 | Judge Route Circle(判断路线成圈) | Easy | [Java](https://github.com/leoqin0816/leetcode/blob/master/Algorithms/Java/String/657.JudgeRouteCircle.java) | String(字符串)
+669 | Trim a Binary Search Tree(修剪二叉搜索树) | Easy | [Java](https://github.com/leoqin0816/leetcode/blob/master/Algorithms/Java/Tree/669.TrimABinarySearchTree.java) | Tree(树)
 682 | Baseball Game(棒球比赛) | Easy | [Java](https://github.com/leoqin0816/leetcode/blob/master/Algorithms/Java/Stack/682.BaseballGame.java) | Stack(栈)
 728 ❤ | Self Dividing Numbers(自除数) | Easy | [Java](https://github.com/leoqin0816/leetcode/blob/master/Algorithms/Java/Math/728.SelfDividingNumbers.java) | Math(数学)
 766 | Toeplitz Matrix(托普利茨矩阵) | Easy | [Java](https://github.com/leoqin0816/leetcode/blob/master/Algorithms/Java/Array/766.ToeplitzMatrix.java) | Array(数组)
