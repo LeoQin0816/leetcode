@@ -10,6 +10,7 @@ Squence | Title | Difficulty | Solution | Topic
 463 | Island Perimeter(岛屿的周长) | Easy | [Java](https://github.com/leoqin0816/leetcode/blob/master/Algorithms/Java/HashTable/463.IslandPerimeter.java) | Hash Table(哈希表)
 476 | Number Complement(数字的补数) | Easy | [Java](https://github.com/leoqin0816/leetcode/blob/master/Algorithms/Java/BitManipulation/476.NumberComplement.java) | Bit Manipulation(位运算)
 500 ❤ | Keyboard Row(键盘行) | Easy | [Java](https://github.com/leoqin0816/leetcode/blob/master/Algorithms/Java/HashTable/500.KeyboardRow.java) | Hash Table(哈希表)
+556 | Reshape the Matrix(重塑矩阵) | Easy | [Java](https://github.com/leoqin0816/leetcode/blob/master/Algorithms/Java/Array/566.ReshapeTheMatrix.java) | Array(数组)
 557 | Reverse Words in a String III(反转字符串中的单词 III) | Easy | [Java](https://github.com/leoqin0816/leetcode/blob/master/Algorithms/Java/String/557.ReverseWordsInAStringIII.java) | String(字符串)
 561 | Array Partition I(数组拆分 I) | Easy | [Java](https://github.com/leoqin0816/leetcode/blob/master/Algorithms/Java/Array/561.ArrayPartitionI.java) | Array(数组)
 575 | Distribute Candies(分糖果) | Easy | [Java](https://github.com/leoqin0816/leetcode/blob/master/Algorithms/Java/HashTable/575.DistributeCandies.java) | Hash Table(哈希表)
