@@ -9,6 +9,7 @@ Squence | Title | Difficulty | Solution | Topic
 461 | Hamming Distance(汉明距离) | Easy | [Java](https://github.com/leoqin0816/leetcode/blob/master/Algorithms/Java/BitManipulation/461.HammingDistance.java) | Bit Manipulation(位运算)
 463 | Island Perimeter(岛屿的周长) | Easy | [Java](https://github.com/leoqin0816/leetcode/blob/master/Algorithms/Java/HashTable/463.IslandPerimeter.java) | Hash Table(哈希表)
 476 | Number Complement(数字的补数) | Easy | [Java](https://github.com/leoqin0816/leetcode/blob/master/Algorithms/Java/BitManipulation/476.NumberComplement.java) | Bit Manipulation(位运算)
+496 ❤ | Next Greater Element I(下一个更大元素 I) | Easy | [Java](https://github.com/leoqin0816/leetcode/blob/master/Algorithms/Java/Stack/496.NextGreaterElementI.java) | Stack(栈)
 500 ❤ | Keyboard Row(键盘行) | Easy | [Java](https://github.com/leoqin0816/leetcode/blob/master/Algorithms/Java/HashTable/500.KeyboardRow.java) | Hash Table(哈希表)
 556 | Reshape the Matrix(重塑矩阵) | Easy | [Java](https://github.com/leoqin0816/leetcode/blob/master/Algorithms/Java/Array/566.ReshapeTheMatrix.java) | Array(数组)
 557 | Reverse Words in a String III(反转字符串中的单词 III) | Easy | [Java](https://github.com/leoqin0816/leetcode/blob/master/Algorithms/Java/String/557.ReverseWordsInAStringIII.java) | String(字符串)
