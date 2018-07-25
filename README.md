@@ -4,6 +4,7 @@
 
 Squence | Title | Difficulty | Solution | Topic
 :---|:---|:---:|:---:|:---
+136 | Single Number(只出现一次的数字) | Easy | [Java](https://github.com/leoqin0816/leetcode/blob/master/Algorithms/Java/BitManipulation/136.SingleNumber.java) | Hash Table(哈希表),Bit Manipulation(位运算)
 344 | Reverse String(反转字符串) | Easy | [Java](https://github.com/leoqin0816/leetcode/blob/master/Algorithms/Java/String/344.ReverseString.java) | String(字符串),Two Pointers(双指针)
 412 | Fizz Buzz | Easy | [Java](https://github.com/leoqin0816/leetcode/blob/master/Algorithms/Java/Others/412.FizzBuzz.java) | 
 461 | Hamming Distance(汉明距离) | Easy | [Java](https://github.com/leoqin0816/leetcode/blob/master/Algorithms/Java/BitManipulation/461.HammingDistance.java) | Bit Manipulation(位运算)
