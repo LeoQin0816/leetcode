@@ -17,6 +17,7 @@ Squence | Title | Difficulty | Solution | Topic
 561 | Array Partition I(数组拆分 I) | Easy | [Java](https://github.com/leoqin0816/leetcode/blob/master/Algorithms/Java/Array/561.ArrayPartitionI.java) | Array(数组)
 575 | Distribute Candies(分糖果) | Easy | [Java](https://github.com/leoqin0816/leetcode/blob/master/Algorithms/Java/HashTable/575.DistributeCandies.java) | Hash Table(哈希表)
 617 ❤ | Merge Two Binary Trees(合并二叉树) | Easy | [Java](https://github.com/leoqin0816/leetcode/blob/master/Algorithms/Java/Tree/617.MergeTwoBinaryTrees.java) | Tree(树)
+637 | Average of Levels in Binary Tree(二叉树的层平均值) | Easy | [Java](https://github.com/leoqin0816/leetcode/blob/master/Algorithms/Java/Tree/637.AverageOfLevelsInBinaryTree.java) | Tree(树)
 657 | Judge Route Circle(判断路线成圈) | Easy | [Java](https://github.com/leoqin0816/leetcode/blob/master/Algorithms/Java/String/657.JudgeRouteCircle.java) | String(字符串)
 669 | Trim a Binary Search Tree(修剪二叉搜索树) | Easy | [Java](https://github.com/leoqin0816/leetcode/blob/master/Algorithms/Java/Tree/669.TrimABinarySearchTree.java) | Tree(树)
 682 | Baseball Game(棒球比赛) | Easy | [Java](https://github.com/leoqin0816/leetcode/blob/master/Algorithms/Java/Stack/682.BaseballGame.java) | Stack(栈)
