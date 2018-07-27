@@ -4,6 +4,7 @@
 
 Squence | Title | Difficulty | Solution | Topic
 :---|:---|:---:|:---:|:---
+104 | Maximum Depth of Binary Tree(二叉树的最大深度) | Easy | [Java](https://github.com/leoqin0816/leetcode/blob/master/Algorithms/Java/Tree/104.MaximumDepthOfBinaryTree.java) | Tree(树),Depth-first Search(深度优先搜索)
 136 | Single Number(只出现一次的数字) | Easy | [Java](https://github.com/leoqin0816/leetcode/blob/master/Algorithms/Java/BitManipulation/136.SingleNumber.java) | Hash Table(哈希表),Bit Manipulation(位运算)
 344 | Reverse String(反转字符串) | Easy | [Java](https://github.com/leoqin0816/leetcode/blob/master/Algorithms/Java/String/344.ReverseString.java) | String(字符串),Two Pointers(双指针)
 412 | Fizz Buzz | Easy | [Java](https://github.com/leoqin0816/leetcode/blob/master/Algorithms/Java/Others/412.FizzBuzz.java) | 
