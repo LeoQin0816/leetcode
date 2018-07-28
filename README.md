@@ -36,10 +36,11 @@
 
 ### Database
 
-| Squence | Title                   | Difficulty |                                            Solution                                             |
-| :------ | :---------------------- | :--------: | :---------------------------------------------------------------------------------------------: |
-| 595     | Big Countries(大的国家) |    Easy    | [MySQL](https://github.com/leoqin0816/leetcode/blob/master/Database/MySQL/595.BigCountries.sql) |
-| 627     | Swap Salary(交换工资)   |    Easy    |  [MySQL](https://github.com/leoqin0816/leetcode/blob/master/Database/MySQL/627.SwapSalary.sql)  |
+| Squence | Title                         | Difficulty |                                              Solution                                              |
+| :------ | :---------------------------- | :--------: | :------------------------------------------------------------------------------------------------: |
+| 595     | Big Countries(大的国家)       |    Easy    |  [MySQL](https://github.com/leoqin0816/leetcode/blob/master/Database/MySQL/595.BigCountries.sql)   |
+| 620     | Not Boring Movies(有趣的电影) |    Easy    | [MySQL](https://github.com/leoqin0816/leetcode/blob/master/Database/MySQL/620.NotBoringMovies.sql) |
+| 627     | Swap Salary(交换工资)         |    Easy    |   [MySQL](https://github.com/leoqin0816/leetcode/blob/master/Database/MySQL/627.SwapSalary.sql)    |
 
 ### Need To Solve
 
