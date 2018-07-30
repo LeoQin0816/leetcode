@@ -56,5 +56,6 @@ AddressId 是上表主键
 FirstName, LastName, City, State
  */
 
+
 SELECT p.FirstName, p.LastName, a.City, a.State
 from Person p left join Address a on p.PersonId = a.PersonId
