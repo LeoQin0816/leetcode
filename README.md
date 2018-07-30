@@ -36,12 +36,14 @@
 
 ### Database
 
-| Squence | Title                                | Difficulty |                                              Solution                                              |
-| :------ | :----------------------------------- | :--------: | :------------------------------------------------------------------------------------------------: |
-| 182     | Duplicate Emails(查找重复的电子邮箱) |    Easy    | [MySQL](https://github.com/leoqin0816/leetcode/blob/master/Database/MySQL/182.DuplicateEmails.sql) |
-| 595     | Big Countries(大的国家)              |    Easy    |  [MySQL](https://github.com/leoqin0816/leetcode/blob/master/Database/MySQL/595.BigCountries.sql)   |
-| 620     | Not Boring Movies(有趣的电影)        |    Easy    | [MySQL](https://github.com/leoqin0816/leetcode/blob/master/Database/MySQL/620.NotBoringMovies.sql) |
-| 627     | Swap Salary(交换工资)                |    Easy    |   [MySQL](https://github.com/leoqin0816/leetcode/blob/master/Database/MySQL/627.SwapSalary.sql)    |
+| Squence | Title                                                          | Difficulty |                                                         Solution                                                         |
+| :------ | :------------------------------------------------------------- | :--------: | :----------------------------------------------------------------------------------------------------------------------: |
+| 175     | Combine Two Tables(组合两个表)                                 |    Easy    |           [MySQL](https://github.com/leoqin0816/leetcode/blob/master/Database/MySQL/175.CombineTwoTables.sql)            |
+| 181     | Employees Earning More Than Their Managers(超过经理收入的员工) |    Easy    | [MySQL](https://github.com/leoqin0816/leetcode/blob/master/Database/MySQL/181.EmployeesEarningMoreThanTheirManagers.sql) |
+| 182     | Duplicate Emails(查找重复的电子邮箱)                           |    Easy    |            [MySQL](https://github.com/leoqin0816/leetcode/blob/master/Database/MySQL/182.DuplicateEmails.sql)            |
+| 595     | Big Countries(大的国家)                                        |    Easy    |             [MySQL](https://github.com/leoqin0816/leetcode/blob/master/Database/MySQL/595.BigCountries.sql)              |
+| 620     | Not Boring Movies(有趣的电影)                                  |    Easy    |            [MySQL](https://github.com/leoqin0816/leetcode/blob/master/Database/MySQL/620.NotBoringMovies.sql)            |
+| 627     | Swap Salary(交换工资)                                          |    Easy    |              [MySQL](https://github.com/leoqin0816/leetcode/blob/master/Database/MySQL/627.SwapSalary.sql)               |
 
 ### Need To Solve
 
