@@ -48,6 +48,7 @@
 | 595     | Big Countries(大的国家)                                        |    Easy    |             [MySQL](https://github.com/leoqin0816/leetcode/blob/master/Database/MySQL/595.BigCountries.sql)              |
 | 596     | Classes More Than 5 Students(超过 5 名学生的课)                |    Easy    |       [MySQL](https://github.com/leoqin0816/leetcode/blob/master/Database/MySQL/596.ClassesMoreThan5Students.sql)        |
 | 620     | Not Boring Movies(有趣的电影)                                  |    Easy    |            [MySQL](https://github.com/leoqin0816/leetcode/blob/master/Database/MySQL/620.NotBoringMovies.sql)            |
+| 626     | Exchange Seats(换座位)                                         |   Medium   |             [MySQL](https://github.com/leoqin0816/leetcode/blob/master/Database/MySQL/626.ExchangeSeats.sql)             |
 | 627     | Swap Salary(交换工资)                                          |    Easy    |              [MySQL](https://github.com/leoqin0816/leetcode/blob/master/Database/MySQL/627.SwapSalary.sql)               |
 
 ### Need To Solve
