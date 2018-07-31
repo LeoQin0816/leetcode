@@ -42,6 +42,7 @@
 | 181     | Employees Earning More Than Their Managers(超过经理收入的员工) |    Easy    | [MySQL](https://github.com/leoqin0816/leetcode/blob/master/Database/MySQL/181.EmployeesEarningMoreThanTheirManagers.sql) |
 | 182     | Duplicate Emails(查找重复的电子邮箱)                           |    Easy    |            [MySQL](https://github.com/leoqin0816/leetcode/blob/master/Database/MySQL/182.DuplicateEmails.sql)            |
 | 183     | Customers Who Never Order(从不订购的客户)                      |    Easy    |        [MySQL](https://github.com/leoqin0816/leetcode/blob/master/Database/MySQL/183.CustomersWhoNeverOrder.sql)         |
+| 197     | Rising Temperature(上升的温度)                                 |    Easy    |           [MySQL](https://github.com/leoqin0816/leetcode/blob/master/Database/MySQL/197.RisingTemperature.sql)           |
 | 595     | Big Countries(大的国家)                                        |    Easy    |             [MySQL](https://github.com/leoqin0816/leetcode/blob/master/Database/MySQL/595.BigCountries.sql)              |
 | 596     | Classes More Than 5 Students(超过 5 名学生的课)                |    Easy    |       [MySQL](https://github.com/leoqin0816/leetcode/blob/master/Database/MySQL/596.ClassesMoreThan5Students.sql)        |
 | 620     | Not Boring Movies(有趣的电影)                                  |    Easy    |            [MySQL](https://github.com/leoqin0816/leetcode/blob/master/Database/MySQL/620.NotBoringMovies.sql)            |
