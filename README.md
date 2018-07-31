@@ -39,6 +39,7 @@
 | Squence | Title                                                          | Difficulty |                                                         Solution                                                         |
 | :------ | :------------------------------------------------------------- | :--------: | :----------------------------------------------------------------------------------------------------------------------: |
 | 175     | Combine Two Tables(组合两个表)                                 |    Easy    |           [MySQL](https://github.com/leoqin0816/leetcode/blob/master/Database/MySQL/175.CombineTwoTables.sql)            |
+| 176     | Second Highest Salary(第二高的薪水)                            |    Easy    |           [MySQL](https://github.com/leoqin0816/leetcode/blob/master/Database/MySQL/Second Highest Salary.sql)           |
 | 181     | Employees Earning More Than Their Managers(超过经理收入的员工) |    Easy    | [MySQL](https://github.com/leoqin0816/leetcode/blob/master/Database/MySQL/181.EmployeesEarningMoreThanTheirManagers.sql) |
 | 182     | Duplicate Emails(查找重复的电子邮箱)                           |    Easy    |            [MySQL](https://github.com/leoqin0816/leetcode/blob/master/Database/MySQL/182.DuplicateEmails.sql)            |
 | 183     | Customers Who Never Order(从不订购的客户)                      |    Easy    |        [MySQL](https://github.com/leoqin0816/leetcode/blob/master/Database/MySQL/183.CustomersWhoNeverOrder.sql)         |
