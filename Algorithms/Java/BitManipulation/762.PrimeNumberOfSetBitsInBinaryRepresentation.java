@@ -75,7 +75,7 @@ class Solution762 {
         return count;
     }
 
-    public boolean isPrime(int n) {
+    private boolean isPrime(int n) {
         /*
         除去 1
         2，3 均为素数
