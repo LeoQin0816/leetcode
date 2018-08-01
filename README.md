@@ -58,3 +58,10 @@
 | Squence | Title                                             | Difficulty |                                                        Solution                                                         | Topic |
 | :------ | :------------------------------------------------ | :--------: | :---------------------------------------------------------------------------------------------------------------------: | :---- |
 | 807     | Max Increase to Keep City Skyline(保持城市天际线) |   Medium   | [Java](https://github.com/leoqin0816/leetcode/blob/master/Algorithms/Java/807.MaxIncreaseToKeepCitySkyline.java) 待解决 |
+
+
+### unknown problem
+
+| Squence | Title                                                                         | Difficulty |                                                                    Solution                                                                    | Topic                                       |
+| :------ | :---------------------------------------------------------------------------- | :--------: | :--------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------ |
+| 521     | Longest Uncommon Subsequence I(最长特殊序列 Ⅰ)                                |    Easy    |               [Java](https://github.com/leoqin0816/leetcode/blob/master/Algorithms/Java/Tree/104.MaximumDepthOfBinaryTree.java)                | Tree(树),Depth-first Search(深度优先搜索)   |
