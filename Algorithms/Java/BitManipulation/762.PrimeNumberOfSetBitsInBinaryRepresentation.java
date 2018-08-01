@@ -79,13 +79,13 @@ class Solution762 {
         /*
         除去 1
         2，3 均为素数
-        不在 6 的倍数两侧，不可能为素数
+        不在 6 的倍数两侧，能被 2 或者 3 整除，不可能为素数
         n 若能被 i 整除，因式分解，必定一个数小于 i，一个数大于 i，只需要判断到i为止是否能整除 i
         判断 6 的倍数两侧是否能整除 n
          */
         if (n <= 1) return false;
         if (n <= 3) return true;
-        if (n % 6 != 1 || n % 6 != 5) return false;
+        if (n % 2 == 0 || n % 3 == 0) return false;
         for (int i = 5; i * i <= n; i += 6) {
             if (n % i == 0 || n % (i + 2) == 0) {
                 return false;
@@ -96,7 +96,7 @@ class Solution762 {
 
 
     public static void main(String[] args) {
-        System.out.println(new Solution762().countPrimeSetBits(6, 10));
+        System.out.println(new Solution762().countPrimeSetBits(842, 888));
         System.out.println(new Solution762().countPrimeSetBits(10, 15));
     }
 }
