@@ -32,6 +32,7 @@
 | 806     | Number of Lines To Write String(写字符串需要的行数)                           |    Easy    |             [Java](https://github.com/leoqin0816/leetcode/blob/master/Algorithms/Java/Others/806.NumberOfLinesToWriteString.java)              |
 | 811     | Subdomain Visit Count(子域名访问计数)                                         |    Easy    |               [Java](https://github.com/leoqin0816/leetcode/blob/master/Algorithms/Java/HashTable/811.SubdomainVisitCount.java)                | Hash Table(哈希表)                          |
 | 821     | Shortest Distance to a Character(字符的最短距离)                              |    Easy    |            [Java](https://github.com/leoqin0816/leetcode/blob/master/Algorithms/Java/Others/821.ShortestDistanceToACharacter.java)             |
+| 824     | Goat Latin(山羊拉丁文)                              |    Easy    |            [Java](https://github.com/leoqin0816/leetcode/blob/master/Algorithms/Java/String/824.GoatLatin.java)             | String(字符串)
 | 832     | Flipping an Image(翻转图像)                                                   |    Easy    |                   [Java](https://github.com/leoqin0816/leetcode/blob/master/Algorithms/Java/Array/832.FlippingAnImage.java)                    | Array(数组)                                 |
 | 852     | Peak Index in a Mountain Array(山脉数组的峰顶索引)                            |    Easy    |           [Java](https://github.com/leoqin0816/leetcode/blob/master/Algorithms/Java/BinarySearch/852.PeakIndexInAMountainArray.java)           | Binary Search(二分查找)                     |
 
