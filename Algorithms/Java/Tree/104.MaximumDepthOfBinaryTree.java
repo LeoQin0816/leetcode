@@ -41,7 +41,6 @@ return its depth = 3.
 返回它的最大深度 3 。
  */
 
-import javax.swing.tree.TreeNode;
 
 /**
  * Definition for a binary tree node.
@@ -53,20 +52,17 @@ import javax.swing.tree.TreeNode;
  * }
  */
 class Solution104 {
-    public class TreeNode {
-        int val;
-        TreeNode left;
-        TreeNode right;
-
-        TreeNode(int x) {
-            val = x;
-        }
-    }
 
     public int maxDepth(TreeNode root) {
         if (root == null) {
             return 0;
         }
         return 1 + Math.max(maxDepth(root.left), maxDepth(root.right));
+    }
+
+    public static void main(String[] args) {
+        TreeNode root = Wrapper.stringToTreeNode("[3,9,20,null,null,15,7]");
+        Wrapper.prettyPrintTree(root);
+        System.out.println(new Solution104().maxDepth(root));
     }
 }
