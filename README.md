@@ -7,6 +7,7 @@
 | 104     | Maximum Depth of Binary Tree(二叉树的最大深度)                                |    Easy    |               [Java](/Algorithms/Java/Tree/104.MaximumDepthOfBinaryTree.java)                | Tree(树),Depth-first Search(深度优先搜索)   |
 | 136     | Single Number(只出现一次的数字)                                               |    Easy    |                [Java](/Algorithms/Java/BitManipulation/136.SingleNumber.java)                | Hash Table(哈希表),Bit Manipulation(位运算) |
 | 226     | Invert Binary Tree(翻转二叉树)                                               |    Easy    |                [Java](/Algorithms/Java/BitManipulation/136.SingleNumber.java)                | Hash Table(哈希表),Bit Manipulation(位运算) |
+| 258     | Add Digits(各位相加)                                               |    Easy    |                [Java](/Algorithms/Java/BitManipulation/258.AddDigits.java)                | Math(数学) |
 | 292     | Nim Game(Nim游戏)                                               |    Easy    |                [Java](/Algorithms/Java/Tree/226.InvertBinaryTree.java)                | Tree(树)  |
 | 344     | Reverse String(反转字符串)                                                    |    Easy    |                    [Java](/Algorithms/Java/String/344.ReverseString.java)                    | String(字符串),Two Pointers(双指针)         |
 | 412     | Fizz Buzz                                                                     |    Easy    |                      [Java](/Algorithms/Java/Others/412.FizzBuzz.java)                       |
