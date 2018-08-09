@@ -7,10 +7,11 @@
 | 104     | Maximum Depth of Binary Tree(二叉树的最大深度)                                |    Easy    |               [Java](/Algorithms/Java/Tree/104.MaximumDepthOfBinaryTree.java)                | Tree(树),Depth-first Search(深度优先搜索)   |
 | 136     | Single Number(只出现一次的数字)                                               |    Easy    |                [Java](/Algorithms/Java/BitManipulation/136.SingleNumber.java)                | Hash Table(哈希表),Bit Manipulation(位运算) |
 | 226     | Invert Binary Tree(翻转二叉树)                                               |    Easy    |                [Java](/Algorithms/Java/BitManipulation/136.SingleNumber.java)                | Hash Table(哈希表),Bit Manipulation(位运算) |
-| 258     | Add Digits(各位相加)                                               |    Easy    |                [Java](/Algorithms/Java/BitManipulation/258.AddDigits.java)                | Math(数学) |
-| 283     | Move Zeroes(移动零)                                               |    Easy    |                [Java](/Algorithms/Java/BitManipulation/283.MoveZeroes.java)                | Array(数组),Two Pointers(双指针) |
+| 258     | Add Digits(各位相加)                                               |    Easy    |                [Java](/Algorithms/Java/Math/258.AddDigits.java)                | Math(数学) |
+| 283     | Move Zeroes(移动零)                                               |    Easy    |                [Java](/Algorithms/Java/Array/283.MoveZeroes.java)                | Array(数组),Two Pointers(双指针) |
 | 292     | Nim Game(Nim游戏)                                               |    Easy    |                [Java](/Algorithms/Java/Tree/226.InvertBinaryTree.java)                | Tree(树)  |
 | 344     | Reverse String(反转字符串)                                                    |    Easy    |                    [Java](/Algorithms/Java/String/344.ReverseString.java)                    | String(字符串),Two Pointers(双指针)         |
+| 389     | Find the Difference(找不同)                                                    |    Easy    |                    [Java](/Algorithms/Java/BitManipulation/389.FindTheDifference.java)                    | Hash Table(哈希表),Bit Manipulation(位运算)         |
 | 412     | Fizz Buzz                                                                     |    Easy    |                      [Java](/Algorithms/Java/Others/412.FizzBuzz.java)                       |
 | 461     | Hamming Distance(汉明距离)                                                    |    Easy    |              [Java](/Algorithms/Java/BitManipulation/461.HammingDistance.java)               | Bit Manipulation(位运算)                    |
 | 463     | Island Perimeter(岛屿的周长)                                                  |    Easy    |                 [Java](/Algorithms/Java/HashTable/463.IslandPerimeter.java)                  | Hash Table(哈希表)                          |
@@ -50,7 +51,7 @@
 | Squence | Title                                                          | Difficulty |                                                         Solution                                                         |
 | :------ | :------------------------------------------------------------- | :--------: | :----------------------------------------------------------------------------------------------------------------------: |
 | 175     | Combine Two Tables(组合两个表)                                 |    Easy    |           [MySQL](/Database/MySQL/175.CombineTwoTables.sql)            |
-| 176     | Second Highest Salary(第二高的薪水)                            |    Easy    |           [MySQL](/Database/MySQL/Second Highest Salary.sql)           |
+| 176     | Second Highest Salary(第二高的薪水)                            |    Easy    |           [MySQL](/Database/MySQL/176.SecondHighestSalary.sql)           |
 | 181     | Employees Earning More Than Their Managers(超过经理收入的员工) |    Easy    | [MySQL](/Database/MySQL/181.EmployeesEarningMoreThanTheirManagers.sql) |
 | 182     | Duplicate Emails(查找重复的电子邮箱)                           |    Easy    |            [MySQL](/Database/MySQL/182.DuplicateEmails.sql)            |
 | 183     | Customers Who Never Order(从不订购的客户)                      |    Easy    |        [MySQL](/Database/MySQL/183.CustomersWhoNeverOrder.sql)         |
