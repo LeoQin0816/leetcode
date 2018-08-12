@@ -64,15 +64,6 @@ Google: 90% of our engineers use the software you wrote (Homebrew), but you canâ
  * }
  */
 class Solution226 {
-    public class TreeNode {
-        int val;
-        TreeNode left;
-        TreeNode right;
-
-        TreeNode(int x) {
-            val = x;
-        }
-    }
 
     public TreeNode invertTree(TreeNode root) {
         if (root == null) {
@@ -83,5 +74,12 @@ class Solution226 {
         root.left = invertTree(right);
         root.right = invertTree(left);
         return root;
+    }
+
+    public static void main(String[] args) {
+        TreeNode treeNode = Wrapper.stringToTreeNode("[4,2,7,1,3,6,9]");
+        Wrapper.prettyPrintTree(treeNode);
+        TreeNode root = new Solution226().invertTree(treeNode);
+        Wrapper.prettyPrintTree(root);
     }
 }
