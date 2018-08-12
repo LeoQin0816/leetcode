@@ -42,7 +42,6 @@ The range of node's value is in the range of 32-bit signed integer.
 节点值的范围在32位有符号整数范围内
  */
 
-import javax.swing.tree.TreeNode;
 import java.util.ArrayList;
 import java.util.LinkedList;
 import java.util.List;
@@ -58,17 +57,6 @@ import java.util.Queue;
  * }
  */
 class Solution737 {
-
-    public class TreeNode {
-        int val;
-        TreeNode left;
-        TreeNode right;
-
-        TreeNode(int x) {
-            val = x;
-        }
-    }
-
     public List<Double> averageOfLevels(TreeNode root) {
         List<Double> result = new ArrayList<>();
         Queue<TreeNode> q = new LinkedList<>();
@@ -87,5 +75,12 @@ class Solution737 {
             result.add(sum / n);
         }
         return result;
+    }
+
+    public static void main(String[] args) {
+        TreeNode treeNode = Wrapper.stringToTreeNode("[3,9,20,null,null,15,7]");
+        Wrapper.prettyPrintTree(treeNode);
+        List<Double> res = new Solution737().averageOfLevels(treeNode);
+        System.out.println(res);
     }
 }
