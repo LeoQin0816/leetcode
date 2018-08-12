@@ -53,8 +53,6 @@ Note: The merging process must start from the root nodes of both trees.
 注意: 合并必须从两个树的根节点开始。
  */
 
-import javax.swing.tree.TreeNode;
-
 /**
  * Definition for a binary tree node.
  * public class TreeNode {
@@ -66,15 +64,6 @@ import javax.swing.tree.TreeNode;
  */
 
 class Solution617 {
-    public class TreeNode {
-        int val;
-        TreeNode left;
-        TreeNode right;
-
-        TreeNode(int x) {
-            val = x;
-        }
-    }
 
     public TreeNode mergeTrees(TreeNode t1, TreeNode t2) {
         if (t1 == null && t2 == null) return null;
@@ -86,5 +75,14 @@ class Solution617 {
         newNode.right = mergeTrees(t1 == null ? null : t1.right, t2 == null ? null : t2.right);
 
         return newNode;
+    }
+
+    public static void main(String[] args) {
+        TreeNode treeNode1 = Wrapper.stringToTreeNode("[1,3,2,5]");
+        TreeNode treeNode2 = Wrapper.stringToTreeNode("[2,1,3,null,4,null,7]");
+        Wrapper.prettyPrintTree(treeNode1);
+        Wrapper.prettyPrintTree(treeNode2);
+        TreeNode root = new Solution617().mergeTrees(treeNode1, treeNode2);
+        Wrapper.prettyPrintTree(root);
     }
 }
