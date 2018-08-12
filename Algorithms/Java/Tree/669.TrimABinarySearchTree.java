@@ -80,8 +80,6 @@ Output:
  1
  */
 
-import javax.swing.tree.TreeNode;
-
 /**
  * Definition for a binary tree node.
  * public class TreeNode {
@@ -91,16 +89,8 @@ import javax.swing.tree.TreeNode;
  * TreeNode(int x) { val = x; }
  * }
  */
-class Solution669 {
-    public class TreeNode {
-        int val;
-        TreeNode left;
-        TreeNode right;
 
-        TreeNode(int x) {
-            val = x;
-        }
-    }
+class Solution669 {
 
     public TreeNode trimBST(TreeNode root, int L, int R) {
         if (root == null) return null;
@@ -112,5 +102,12 @@ class Solution669 {
         root.right = trimBST(root.right, L, R);
 
         return root;
+    }
+
+    public static void main(String[] args) {
+        TreeNode treeNode = Wrapper.stringToTreeNode("[3,0,4,null,2,null,null,1]");
+        Wrapper.prettyPrintTree(treeNode);
+        TreeNode root = new Solution669().trimBST(treeNode, 1, 3);
+        Wrapper.prettyPrintTree(root);
     }
 }
