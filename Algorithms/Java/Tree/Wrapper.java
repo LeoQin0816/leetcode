@@ -98,12 +98,7 @@ class Wrapper {
         }
     }
 
-    public static void prettyPrintTree(TreeNode node) {
-        prettyPrintTree(node, "", true);
-    }
-
-    public static void prettyPrintTree(String string) {
-        TreeNode node = stringToTreeNode(string);
+    static void prettyPrintTree(TreeNode node) {
         prettyPrintTree(node, "", true);
     }
 
