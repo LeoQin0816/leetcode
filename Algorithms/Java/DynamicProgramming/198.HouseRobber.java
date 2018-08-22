@@ -52,9 +52,6 @@ class Solution198 {
             int temp = prevNo;
             prevNo = Math.max(prevNo, prevYes);  //  not rob current house, current max will depends on previous value: Math.max(prevNo, prevYes)
             prevYes = n + temp;  // rob current one, add current stashed money value
-            System.out.println(prevNo);
-            System.out.println(prevYes);
-            System.out.println("-----");
         }
         return Math.max(prevNo, prevYes);
     }
