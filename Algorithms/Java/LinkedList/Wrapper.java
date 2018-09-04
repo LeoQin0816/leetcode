@@ -52,4 +52,21 @@ class Wrapper {
             System.out.println("Empty LinkedList");
         }
     }
+
+    static boolean compareTwoListNode(ListNode node1, ListNode node2) {
+        if (node1 == null || node2 == null) {
+            return false;
+        }
+        while (node1 != null) {
+            if (node2 == null) {
+                return false;
+            }
+            if (node1.val != node2.val) {
+                return false;
+            }
+            node1 = node1.next;
+            node2 = node2.next;
+        }
+        return true;
+    }
 }
