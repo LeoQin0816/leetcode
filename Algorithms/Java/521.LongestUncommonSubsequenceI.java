@@ -1,5 +1,3 @@
-package Unkown;
-
 /*
 521. Longest Uncommon Subsequence I
 
