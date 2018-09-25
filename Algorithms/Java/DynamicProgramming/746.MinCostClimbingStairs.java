@@ -1,4 +1,4 @@
-package Array;
+package DynamicProgramming;
 
 /*
 746. Min Cost Climbing Stairs
