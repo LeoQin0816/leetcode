@@ -21,9 +21,6 @@ Output: 1->1->2->3->4->4
 输出：1->1->2->3->4->4
  */
 
-import LinkedList.ListNode;
-import LinkedList.Wrapper;
-
 /**
  * Definition for singly-linked list.
  * public class ListNode {
@@ -46,11 +43,11 @@ class Solution21 {
     }
 
     public static void main(String[] args) {
-        ListNode l1 = Wrapper.stringToListNode("[1,2,4]");
-        Wrapper.prettyPrintLinkedList(l1);
-        ListNode l2 = Wrapper.stringToListNode("[1,3,4]");
-        Wrapper.prettyPrintLinkedList(l2);
+        ListNode l1 = LinkedListWrapper.stringToListNode("[1,2,4]");
+        LinkedListWrapper.prettyPrintLinkedList(l1);
+        ListNode l2 = LinkedListWrapper.stringToListNode("[1,3,4]");
+        LinkedListWrapper.prettyPrintLinkedList(l2);
         ListNode node = new Solution21().mergeTwoLists(l1, l2);
-        Wrapper.prettyPrintLinkedList(node);
+        LinkedListWrapper.prettyPrintLinkedList(node);
     }
 }

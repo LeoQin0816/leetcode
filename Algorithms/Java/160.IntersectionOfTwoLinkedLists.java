@@ -44,9 +44,6 @@ B:     b1 → b2 → b3
 程序尽量满足 O(n) 时间复杂度，且仅用 O(1) 内存。
  */
 
-import LinkedList.ListNode;
-import LinkedList.Wrapper;
-
 /**
  * Definition for singly-linked list.
  * public class ListNode {
@@ -65,7 +62,7 @@ class Solution160 {
         ListNode a = headA;
         ListNode b = headB;
 
-        while (!Wrapper.compareTwoListNode(a, b)) {
+        while (!LinkedListWrapper.compareTwoListNode(a, b)) {
             a = a == null ? headB : a.next;
             b = b == null ? headA : b.next;
         }
@@ -73,11 +70,11 @@ class Solution160 {
     }
 
     public static void main(String[] args) {
-        ListNode headA = Wrapper.stringToListNode("[1,2,1,2,3]");
-        ListNode headB = Wrapper.stringToListNode("[1,2,3,1,2,3]");
-        Wrapper.prettyPrintLinkedList(headA);
-        Wrapper.prettyPrintLinkedList(headB);
-        Wrapper.prettyPrintLinkedList(new Solution160().getIntersectionNode(headA, headB));
+        ListNode headA = LinkedListWrapper.stringToListNode("[1,2,1,2,3]");
+        ListNode headB = LinkedListWrapper.stringToListNode("[1,2,3,1,2,3]");
+        LinkedListWrapper.prettyPrintLinkedList(headA);
+        LinkedListWrapper.prettyPrintLinkedList(headB);
+        LinkedListWrapper.prettyPrintLinkedList(new Solution160().getIntersectionNode(headA, headB));
 
     }
 }

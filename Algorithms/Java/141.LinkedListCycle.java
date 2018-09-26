@@ -16,8 +16,6 @@ Can you solve it without using extra space?
 你能否不使用额外空间解决此题？
  */
 
-import LinkedList.ListNode;
-
 /**
  * Definition for singly-linked list.
  * class ListNode {

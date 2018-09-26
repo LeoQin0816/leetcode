@@ -24,9 +24,6 @@ A linked list can be reversed either iteratively or recursively. Could you imple
 你可以迭代或递归地反转链表。你能否用两种方法解决这道题？
  */
 
-import LinkedList.ListNode;
-import LinkedList.Wrapper;
-
 /**
  * Definition for singly-linked list.
  * public class ListNode {
@@ -48,9 +45,9 @@ class Solution206 {
     }
 
     public static void main(String[] args) {
-        ListNode head = Wrapper.stringToListNode("[1,2,3,4,5]");
-        Wrapper.prettyPrintLinkedList(head);
+        ListNode head = LinkedListWrapper.stringToListNode("[1,2,3,4,5]");
+        LinkedListWrapper.prettyPrintLinkedList(head);
         ListNode res = new Solution206().reverseList(head);
-        Wrapper.prettyPrintLinkedList(res);
+        LinkedListWrapper.prettyPrintLinkedList(res);
     }
 }
