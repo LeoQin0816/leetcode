@@ -40,6 +40,7 @@
 | 219 ❤    | Contains Duplicate II                             |    Easy    |            [BestJava](/Algorithms/BestJava/219.ContainsDuplicateII.java)             | Array,Hash Table                                   |
 | 226      | Invert Binary Tree                                |    Easy    |                [BestJava](/Algorithms/BestJava/136.SingleNumber.java)                | Hash Table,Bit Manipulation                        |
 | 234 ❤    | Palindrome Linked List                            |    Easy    |            [BestJava](/Algorithms/BestJava/234.PalindromeLinkedList.java)            | Linked List,Two Pointers                           |
+| 242      | Valid Anagram                                        |    Easy    |                 [BestJava](/Algorithms/BestJava/242.ValidAnagram.java)                  | Hash Table,Sort                                               |
 | 258      | Add Digits                                        |    Easy    |                 [BestJava](/Algorithms/BestJava/258.AddDigits.java)                  | Math                                               |
 | 268      | Missing Number                                    |    Easy    |               [BestJava](/Algorithms/BestJava/268.MissingNumber.java)                | Array,Math,Bit Manipulation                        |
 | 283      | Move Zeroes                                       |    Easy    |                 [BestJava](/Algorithms/BestJava/283.MoveZeroes.java)                 | Array,Two Pointers                                 |
