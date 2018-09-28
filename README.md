@@ -34,6 +34,7 @@
 | 198 ❤    | House Robber                                      |    Easy    |                [BestJava](/Algorithms/BestJava/198.HouseRobber.java)                 | Dynamic Programming                                |
 | 202      | Happy Number                                      |    Easy    |                [BestJava](/Algorithms/BestJava/202.HappyNumber.java)                 | Hash Table                                         |
 | 204      | Count Primes                                      |    Easy    |                [BestJava](/Algorithms/BestJava/204.CountPrimes.java)                 | Hash Table,Math                                    |
+| 205      | Isomorphic Strings                                      |    Easy    |                [BestJava](/Algorithms/BestJava/205.IsomorphicStrings.java)                 | Hash Table                                    |
 | 206      | Reverse Linked List                               |    Easy    |             [BestJava](/Algorithms/BestJava/206.ReverseLinkedList.java)              | Linked List                                        |
 | 217      | Contains Duplicate                                |    Easy    |             [BestJava](/Algorithms/BestJava/217.ContainsDuplicate.java)              | Array                                              |
 | 219 ❤    | Contains Duplicate II                             |    Easy    |            [BestJava](/Algorithms/BestJava/219.ContainsDuplicateII.java)             | Array,Hash Table                                   |
