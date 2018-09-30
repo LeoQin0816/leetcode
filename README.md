@@ -2,6 +2,8 @@
 
 ### Algorithms
 
+##### BestJava is from discuss's top votes
+
 | Sequence | Title                                             | Difficulty |                                   Solution                                   | Topic                                              |
 | :------- | :------------------------------------------------ | :--------: | :--------------------------------------------------------------------------: | :------------------------------------------------- |
 | 1        | Two Sum                                           |    Easy    |                    [BestJava](/Algorithms/BestJava/1.TwoSum.java)                    | Array,Hash Table                                   |
@@ -51,6 +53,7 @@
 | 350      | Intersection of Two Arrays II                                   |    Easy    |               [BestJava](/Algorithms/BestJava/350.IntersectionOfTwoArraysII.java)                | Hash Table,Two Pointers,Binary Search,Sort                                |
 | 387      | First Unique Character in a String                               |    Easy    |             [BestJava](/Algorithms/BestJava/387.FirstUniqueCharacterInAString.java)              | Hash Table,String                        |
 | 389      | Find the Difference                               |    Easy    |             [BestJava](/Algorithms/BestJava/389.FindTheDifference.java)              | Hash Table,Bit Manipulation                        |
+| 409      | Longest Palindrome                                         |    Easy    |                  [BestJava](/Algorithms/BestJava/409.LongestPalindrome.java)                  | Hash Table
 | 412      | Fizz Buzz                                         |    Easy    |                  [BestJava](/Algorithms/BestJava/412.FizzBuzz.java)                  |
 | 414      | Third Maximum Number                              |    Easy    |             [BestJava](/Algorithms/BestJava/414.ThirdMaximumNumber.java)             | Array                                              |
 | 437      | Path Sum III                                      |    Easy    |                 [BestJava](/Algorithms/BestJava/437.PathSumIII.java)                 | Tree                                               |
