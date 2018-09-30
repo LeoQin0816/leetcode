@@ -44,6 +44,7 @@
 | 258      | Add Digits                                        |    Easy    |                 [BestJava](/Algorithms/BestJava/258.AddDigits.java)                  | Math                                               |
 | 268      | Missing Number                                    |    Easy    |               [BestJava](/Algorithms/BestJava/268.MissingNumber.java)                | Array,Math,Bit Manipulation                        |
 | 283      | Move Zeroes                                       |    Easy    |                 [BestJava](/Algorithms/BestJava/283.MoveZeroes.java)                 | Array,Two Pointers                                 |
+| 290      | Word Pattern                                       |    Easy    |                 [BestJava](/Algorithms/BestJava/290.WordPattern.java)                 | Hash Table                                 |
 | 292      | Nim Game                                          |    Easy    |              [BestJava](/Algorithms/BestJava/226.InvertBinaryTree.java)              | Tree                                               |
 | 344      | Reverse String                                    |    Easy    |               [BestJava](/Algorithms/BestJava/344.ReverseString.java)                | String,Two Pointers                                |
 | 389      | Find the Difference                               |    Easy    |             [BestJava](/Algorithms/BestJava/389.FindTheDifference.java)              | Hash Table,Bit Manipulation                        |
