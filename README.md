@@ -58,7 +58,7 @@
 | 414      | Third Maximum Number                              |    Easy    |             [BestJava](/Algorithms/BestJava/414.ThirdMaximumNumber.java)             | Array                                              |
 | 437      | Path Sum III                                      |    Easy    |                 [BestJava](/Algorithms/BestJava/437.PathSumIII.java)                 | Tree                                               |
 | 438 ❤    | Find All Anagrams in a String                                      |    Easy    |                 [BestJava](/Algorithms/BestJava/438.FindAllAnagramsInAString.java)                 | Hash Table                                               |
-| 447      | Number of Boomerangs          |    Easy    |     [BestJava](/Algorithms/BestJava/447.NumberOfBoomerangs.java)     | Hash Table                                              |
+| 447 ❤    | Number of Boomerangs          |    Easy    |     [BestJava](/Algorithms/BestJava/447.NumberOfBoomerangs.java)     | Hash Table                                              |
 | 448      | Find All Numbers Disappeared in an Array          |    Easy    |     [BestJava](/Algorithms/BestJava/448.FindAllNumbersDisappearedInAnArray.java)     | Array                                              |
 | 461      | Hamming Distance                                  |    Easy    |              [BestJava](/Algorithms/BestJava/461.HammingDistance.java)               | Bit Manipulation                                   |
 | 463      | Island Perimeter                                  |    Easy    |              [BestJava](/Algorithms/BestJava/463.IslandPerimeter.java)               | Hash Table                                         |
@@ -76,6 +76,7 @@
 | 572      | Subtree of Another Tree                           |    Easy    |            [BestJava](/Algorithms/BestJava/572.SubtreeOfAnotherTree.java)            | Tree                                               |
 | 575      | Distribute Candies                                |    Easy    |             [BestJava](/Algorithms/BestJava/575.DistributeCandies.java)              | Hash Table                                         |
 | 581 ❤    | Shortest Unsorted Continuous Subarray             |    Easy    |     [BestJava](/Algorithms/BestJava/581.ShortestUnsortedContinuousSubarray.java)     |                                                    |
+| 594      | Longest Harmonious Subsequence                                 |    Easy    |              [BestJava](/Algorithms/BestJava/594.LongestHarmoniousSubsequence.java)               | Hash Table                                              |
 | 605      | Can Place Flowers                                 |    Easy    |              [BestJava](/Algorithms/BestJava/605.CanPlaceFlowers.java)               | Array                                              |
 | 617 ❤    | Merge Two Binary Trees                            |    Easy    |            [BestJava](/Algorithms/BestJava/617.MergeTwoBinaryTrees.java)             | Tree                                               |
 | 628      | Maximum Product of Three Numbers                  |    Easy    |        [BestJava](/Algorithms/BestJava/628.MaximumProductOfThreeNumbers.java)        | Array                                              |
