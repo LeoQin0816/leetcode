@@ -83,6 +83,7 @@
 | 628      | Maximum Product of Three Numbers                  |    Easy    |        [BestJava](/Algorithms/BestJava/628.MaximumProductOfThreeNumbers.java)        | Array                                              |
 | 637      | Average of Levels in Binary Tree                  |    Easy    |        [BestJava](/Algorithms/BestJava/637.AverageOfLevelsInBinaryTree.java)         | Tree                                               |
 | 643      | Maximum Average Subarray I                        |    Easy    |          [BestJava](/Algorithms/BestJava/643.MaximumAverageSubarrayI.java)           | Array                                              |
+| 645      | Set Mismatch                        |    Easy    |          [BestJava](/Algorithms/BestJava/645.SetMismatch.java)           | Hash Table                                              |
 | 657      | Judge Route Circle                                |    Easy    |              [BestJava](/Algorithms/BestJava/657.JudgeRouteCircle.java)              | String                                             |
 | 661      | Image Smoother                                    |    Easy    |               [BestJava](/Algorithms/BestJava/661.ImageSmoother.java)                | Array                                              |
 | 665 ❤    | Non-decreasing Array                              |    Easy    |            [BestJava](/Algorithms/BestJava/665.Non-decreasingArray.java)             | Array                                              |
