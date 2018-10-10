@@ -36,6 +36,7 @@
 | 189      | Rotate Array                                      |    Easy    |                [BestJava](/Algorithms/BestJava/189.RotateArray.java)                 | Array                                              |
 | 198 ❤    | House Robber                                      |    Easy    |                [BestJava](/Algorithms/BestJava/198.HouseRobber.java)                 | Dynamic Programming                                |
 | 202      | Happy Number                                      |    Easy    |                [BestJava](/Algorithms/BestJava/202.HappyNumber.java)                 | Hash Table                                         |
+| 203      | Remove Linked List Elements                                      |    Easy    |                [BestJava](/Algorithms/BestJava/203.RemoveLinkedListElements.java)                 | Linked List                                         |
 | 204      | Count Primes                                      |    Easy    |                [BestJava](/Algorithms/BestJava/204.CountPrimes.java)                 | Hash Table,Math                                    |
 | 205      | Isomorphic Strings                                      |    Easy    |                [BestJava](/Algorithms/BestJava/205.IsomorphicStrings.java)                 | Hash Table                                    |
 | 206      | Reverse Linked List                               |    Easy    |             [BestJava](/Algorithms/BestJava/206.ReverseLinkedList.java)              | Linked List                                        |
