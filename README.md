@@ -19,6 +19,7 @@
 | 53 ❤     | Maximum Subarray                                  |    Easy    |               [BestJava](/Algorithms/BestJava/53.MaximumSubarray.java)               | Array,Divide and Conquer,Dynamic Programming       |
 | 66 ❤     | Plus One                                          |    Easy    |                   [BestJava](/Algorithms/BestJava/66.PlusOne.java)                   | Array,Math                                         |
 | 67 ❤     | Add Binary                                          |    Easy    |                   [BestJava](/Algorithms/BestJava/67.AddBinary.java)                   | String,Math                                         |
+| 69       | 69. Sqrt(x)                                          |    Easy    |                   [BestJava](/Algorithms/BestJava/69.Sqrt(x).java)                   | Math,Binary Search                                       |
 | 70       | Climbing Stairs                                   |    Easy    |               [BestJava](/Algorithms/BestJava/70.ClimbingStairs.java)                | Dynamic Programming                                |
 | 83       | Remove Duplicates from Sorted List                                   |    Easy    |               [BestJava](/Algorithms/BestJava/83.RemoveDuplicatesFromSortedList.java)                | Linked List                              |
 | 88       | Merge Sorted Array                                |    Easy    |              [BestJava](/Algorithms/BestJava/88.MergeSortedArray.java)               | Array,Two Pointers                                 |
