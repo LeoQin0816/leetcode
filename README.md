@@ -49,6 +49,7 @@
 | 217      | Contains Duplicate                                |    Easy    |             [BestJava](/Algorithms/BestJava/217.ContainsDuplicate.java)              | Array                                              |
 | 219 ❤    | Contains Duplicate II                             |    Easy    |            [BestJava](/Algorithms/BestJava/219.ContainsDuplicateII.java)             | Array,Hash Table                                   |
 | 226      | Invert Binary Tree                                |    Easy    |                [BestJava](/Algorithms/BestJava/136.SingleNumber.java)                | Hash Table,Bit Manipulation                        |
+| 231      | Power of Two                                |    Easy    |                [BestJava](/Algorithms/BestJava/231.PowerOfTwo.java)                | Math,Bit Manipulation                        |
 | 234 ❤    | Palindrome Linked List                            |    Easy    |            [BestJava](/Algorithms/BestJava/234.PalindromeLinkedList.java)            | Linked List,Two Pointers                           |
 | 237    | Delete Node in a Linked List                            |    Easy    |            [BestJava](/Algorithms/BestJava/237.DeleteNodeInALinkedList.java)            | Linked List                          |
 | 242      | Valid Anagram                                        |    Easy    |                 [BestJava](/Algorithms/BestJava/242.ValidAnagram.java)                  | Hash Table,Sort                                               |
