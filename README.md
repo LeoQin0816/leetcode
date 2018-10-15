@@ -38,6 +38,7 @@
 | 168      | Excel Sheet Column Title               |    Easy    |        [BestJava](/Algorithms/BestJava/168.ExcelSheetColumnTitle.java)         | Math                   |
 | 169      | Majority Element                                  |    Easy    |              [BestJava](/Algorithms/BestJava/169.MajorityElement.java)               | Array,Bit Manipulation,Divide and Conquer          |
 | 171      | Excel Sheet Column Number                                  |    Easy    |              [BestJava](/Algorithms/BestJava/171.ExcelSheetColumnNumber.java)               | Math          |
+| 171      | Factorial Trailing Zeroes                                  |    Easy    |              [BestJava](/Algorithms/BestJava/172.FactorialTrailingZeroes.java)               | Math          |
 | 189      | Rotate Array                                      |    Easy    |                [BestJava](/Algorithms/BestJava/189.RotateArray.java)                 | Array                                              |
 | 198 ❤    | House Robber                                      |    Easy    |                [BestJava](/Algorithms/BestJava/198.HouseRobber.java)                 | Dynamic Programming                                |
 | 202      | Happy Number                                      |    Easy    |                [BestJava](/Algorithms/BestJava/202.HappyNumber.java)                 | Hash Table                                         |
