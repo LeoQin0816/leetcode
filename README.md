@@ -66,6 +66,7 @@
 | 367      | Valid Perfect Square                                   |    Easy    |               [BestJava](/Algorithms/BestJava/367.ValidPerfectSquare.java)                | Math,Binary Search                                |
 | 387      | First Unique Character in a String                               |    Easy    |             [BestJava](/Algorithms/BestJava/387.FirstUniqueCharacterInAString.java)              | Hash Table,String                        |
 | 389      | Find the Difference                               |    Easy    |             [BestJava](/Algorithms/BestJava/389.FindTheDifference.java)              | Hash Table,Bit Manipulation                        |
+| 400      | Nth Digit                                         |    Easy    |                  [BestJava](/Algorithms/BestJava/400.NthDigit.java)                  | Math
 | 409      | Longest Palindrome                                         |    Easy    |                  [BestJava](/Algorithms/BestJava/409.LongestPalindrome.java)                  | Hash Table
 | 412      | Fizz Buzz                                         |    Easy    |                  [BestJava](/Algorithms/BestJava/412.FizzBuzz.java)                  |
 | 414      | Third Maximum Number                              |    Easy    |             [BestJava](/Algorithms/BestJava/414.ThirdMaximumNumber.java)             | Array                                              |
