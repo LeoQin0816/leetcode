@@ -13,6 +13,7 @@
 | 14       | Longest Common Prefix                             |    Easy    |             [BestJava](/Algorithms/BestJava/14.LongestCommonPrefix.java)             | String                                             |
 | 26       | Remove Duplicates from Sorted Array               |    Easy    |       [BestJava](/Algorithms/BestJava/26.RemoveDuplicatesFromSortedArray.java)       | Array,Two Pointers                                 |
 | 27       | Remove Element                                    |    Easy    |                [BestJava](/Algorithms/BestJava/27.RemoveElement.java)                | Array,Two Pointers                                 |
+| 28       | Implement strStr()                                    |    Easy    |                [BestJava](/Algorithms/BestJava/28.ImplementStrStr().java)                | String,Two Pointers                                 |
 | 20       | Valid Parentheses                                 |    Easy    |              [BestJava](/Algorithms/BestJava/20.ValidParentheses.java)               | String,Stack                                       |
 | 21       | Merge Two Sorted Lists                            |    Easy    |             [BestJava](/Algorithms/BestJava/21.MergeTwoSortedLists.java)             | Linked List                                        |
 | 35       | Search Insert Position                            |    Easy    |            [BestJava](/Algorithms/BestJava/35.SearchInsertPosition.java)             | Binary Search                                      |
