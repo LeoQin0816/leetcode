@@ -73,6 +73,7 @@
 | 415 ❤     | Add Strings                              |    Easy    |             [BestJava](/Algorithms/BestJava/415.AddStrings.java)             | Math                                              |
 | 437      | Path Sum III                                      |    Easy    |                 [BestJava](/Algorithms/BestJava/437.PathSumIII.java)                 | Tree                                               |
 | 438 ❤    | Find All Anagrams in a String                                      |    Easy    |                 [BestJava](/Algorithms/BestJava/438.FindAllAnagramsInAString.java)                 | Hash Table                                               |
+| 441      | Arranging Coins                                      |    Easy    |                 [BestJava](/Algorithms/BestJava/441.ArrangingCoins.java)                 | Math,Binary Search                                               |
 | 447 ❤    | Number of Boomerangs          |    Easy    |     [BestJava](/Algorithms/BestJava/447.NumberOfBoomerangs.java)     | Hash Table                                              |
 | 448      | Find All Numbers Disappeared in an Array          |    Easy    |     [BestJava](/Algorithms/BestJava/448.FindAllNumbersDisappearedInAnArray.java)     | Array                                              |
 | 461      | Hamming Distance                                  |    Easy    |              [BestJava](/Algorithms/BestJava/461.HammingDistance.java)               | Bit Manipulation                                   |
