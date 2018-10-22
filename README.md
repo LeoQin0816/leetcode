@@ -31,6 +31,7 @@
 | 118 ❤    | Pascal's Triangle II                              |    Easy    |             [BestJava](/Algorithms/BestJava/119.Pascal'sTriangleII.java)             | Array                                              |
 | 121 ❤    | Best Time to Buy and Sell Stock                   |    Easy    |         [BestJava](/Algorithms/BestJava/121.BestTimeToBuyAndSellStock.java)          | Array,Dynamic Programming                          |
 | 122 ❓   | Best Time to Buy and Sell Stock II                |    Easy    |        [BestJava](/Algorithms/BestJava/122.BestTimeToBuyAndSellStockII.java)         | Array,Greedy                                       |
+| 125      | Valid Palindrome                |    Easy    |        [BestJava](/Algorithms/BestJava/125.ValidPalindrome.java)         | String,Two Pointers                                       |
 | 136      | Single Number                                     |    Easy    |                [BestJava](/Algorithms/BestJava/136.SingleNumber.java)                | Hash Table,Bit Manipulation                        |
 | 141      | Linked List Cycle                                 |    Easy    |              [BestJava](/Algorithms/BestJava/141.LinkedListCycle.java)               | Linked List,Two Pointers                           |
 | 155 ❓   | Min Stack                                         |    Easy    |                  [BestJava](/Algorithms/BestJava/155.MinStack.java)                  | Stack,Design                                       |
