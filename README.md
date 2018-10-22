@@ -100,6 +100,7 @@
 | 605      | Can Place Flowers                                 |    Easy    |              [BestJava](/Algorithms/BestJava/605.CanPlaceFlowers.java)               | Array                                              |
 | 617 ❤    | Merge Two Binary Trees                            |    Easy    |            [BestJava](/Algorithms/BestJava/617.MergeTwoBinaryTrees.java)             | Tree                                               |
 | 628      | Maximum Product of Three Numbers                  |    Easy    |        [BestJava](/Algorithms/BestJava/628.MaximumProductOfThreeNumbers.java)        | Array                                              |
+| 633      | Sum of Square Numbers                  |    Easy    |        [BestJava](/Algorithms/BestJava/633.SumOfSquareNumbers.java)         | Math                                               |
 | 637      | Average of Levels in Binary Tree                  |    Easy    |        [BestJava](/Algorithms/BestJava/637.AverageOfLevelsInBinaryTree.java)         | Tree                                               |
 | 643      | Maximum Average Subarray I                        |    Easy    |          [BestJava](/Algorithms/BestJava/643.MaximumAverageSubarrayI.java)           | Array                                              |
 | 645      | Set Mismatch                        |    Easy    |          [BestJava](/Algorithms/BestJava/645.SetMismatch.java)           | Hash Table                                              |
