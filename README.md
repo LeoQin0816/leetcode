@@ -76,6 +76,7 @@
 | 441      | Arranging Coins                                      |    Easy    |                 [BestJava](/Algorithms/BestJava/441.ArrangingCoins.java)                 | Math,Binary Search                                               |
 | 447 ❤    | Number of Boomerangs          |    Easy    |     [BestJava](/Algorithms/BestJava/447.NumberOfBoomerangs.java)     | Hash Table                                              |
 | 448      | Find All Numbers Disappeared in an Array          |    Easy    |     [BestJava](/Algorithms/BestJava/448.FindAllNumbersDisappearedInAnArray.java)     | Array                                              |
+| 453      | Minimum Moves to Equal Array Elements          |    Easy    |     [BestJava](/Algorithms/BestJava/453.MinimumMovesToEqualArrayElements.java)     | Math                                              |
 | 461      | Hamming Distance                                  |    Easy    |              [BestJava](/Algorithms/BestJava/461.HammingDistance.java)               | Bit Manipulation                                   |
 | 463      | Island Perimeter                                  |    Easy    |              [BestJava](/Algorithms/BestJava/463.IslandPerimeter.java)               | Hash Table                                         |
 | 476      | Number Complement                                 |    Easy    |              [BestJava](/Algorithms/BestJava/476.NumberComplement.java)              | Bit Manipulation                                   |
