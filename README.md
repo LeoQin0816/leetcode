@@ -17,6 +17,7 @@
 | 20       | Valid Parentheses                                 |    Easy    |              [BestJava](/Algorithms/BestJava/20.ValidParentheses.java)               | String,Stack                                       |
 | 21       | Merge Two Sorted Lists                            |    Easy    |             [BestJava](/Algorithms/BestJava/21.MergeTwoSortedLists.java)             | Linked List                                        |
 | 35       | Search Insert Position                            |    Easy    |            [BestJava](/Algorithms/BestJava/35.SearchInsertPosition.java)             | Binary Search                                      |
+| 35       | Search Insert Position                            |    Easy    |            [BestJava](/Algorithms/BestJava/35.SearchInsertPosition.java)             | Binary Search                                      |
 | 53 ❤     | Maximum Subarray                                  |    Easy    |               [BestJava](/Algorithms/BestJava/53.MaximumSubarray.java)               | Array,Divide and Conquer,Dynamic Programming       |
 | 66 ❤     | Plus One                                          |    Easy    |                   [BestJava](/Algorithms/BestJava/66.PlusOne.java)                   | Array,Math                                         |
 | 67 ❤     | Add Binary                                          |    Easy    |                   [BestJava](/Algorithms/BestJava/67.AddBinary.java)                   | String,Math                                         |
