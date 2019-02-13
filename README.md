@@ -89,6 +89,7 @@
 | 496 ❤    | Next Greater Element I                            |    Easy    |            [BestJava](/Algorithms/BestJava/496.NextGreaterElementI.java)             | Stack                                              |
 | 500 ❤    | Keyboard Row                                      |    Easy    |                [BestJava](/Algorithms/BestJava/500.KeyboardRow.java)                 | Hash Table                                         |
 | 507      | Perfect Number                                      |    Easy    |                [BestJava](/Algorithms/BestJava/507.PerfectNumber.java)                 | Math                                         |
+| 509      | Fibonacci Number                                      |    Easy    |                [BestJava](/Algorithms/BestJava/509.FibonacciNumber.java)                 | Array                                         |
 | 520      | Detect Capital                                    |    Easy    |               [BestJava](/Algorithms/BestJava/520.DetectCapital.java)                | String                                             |
 | 532      | K-diff Pairs in an Array                          |    Easy    |            [BestJava](/Algorithms/BestJava/532.K-diffPairsInAnArray.java)            | Array,Two Pointers                                 |
 | 538 ❤    | Convert BST to Greater Tree                       |    Easy    |          [BestJava](/Algorithms/BestJava/538.ConvertBSTToGreaterTree.java)           | Tree                                               |
