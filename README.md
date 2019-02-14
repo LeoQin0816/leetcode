@@ -128,6 +128,7 @@
 | 720      | Longest Word in Dictionary                                  |    Easy    |               [BestJava](/Algorithms/BestJava/720.LongestWordInDictionary.java)               | Hash Table,Trie                                              |
 | 724      | Find Pivot Index                                  |    Easy    |               [BestJava](/Algorithms/BestJava/724.FindPivotIndex.java)               | Array                                              |
 | 728 ❤    | Self Dividing Numbers                             |    Easy    |            [BestJava](/Algorithms/BestJava/728.SelfDividingNumbers.java)             | Math                                               |
+| 748    | Shortest Completing Word                             |    Easy    |            [BestJava](/Algorithms/BestJava/748.ShortestCompletingWord.java)             | Hash Table                                               |
 | 762 ❤    | Prime Number of Set Bits in Binary Representation |    Easy    | [BestJava](/Algorithms/BestJava/762.PrimeNumberOfSetBitsInBinaryRepresentation.java) | Bit Manipulation                                   |
 | 746      | Min Cost Climbing Stairs                          |    Easy    |           [BestJava](/Algorithms/BestJava/746.MinCostClimbingStairs.java)            | Array,Dynamic Programming                          |
 | 747      | Largest Number At Least Twice of Others           |    Easy    |     [BestJava](/Algorithms/BestJava/747.LargestNumberAtLeastTwiceOfOthers.java)      | Array                                              |
