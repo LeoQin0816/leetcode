@@ -121,6 +121,7 @@
 | 695 ❤    | Max Area of Island                                |    Easy    |              [BestJava](/Algorithms/BestJava/695.MaxAreaOfIsland.java)               | Array,Depth-first Search                           |
 | 696 ❤    | Count Binary Substrings                           |    Easy    |           [BestJava](/Algorithms/BestJava/696.CountBinarySubstrings.java)            | String                                             |
 | 697 ❤    | Degree of an Array                                |    Easy    |              [BestJava](/Algorithms/BestJava/697.DegreeOfAnArray.java)               | Array                                              |
+| 705      | Design HashSet                                     |    Easy    |                [BestJava](/Algorithms/BestJava/705.DesignHashSet.java)                 | Hash Table,Design                                             |
 | 709      | To Lower Case                                     |    Easy    |                [BestJava](/Algorithms/BestJava/709.ToLowerCase.java)                 | String                                             |
 | 717      | 1-bit and 2-bit Characters                        |    Easy    |          [BestJava](/Algorithms/BestJava/717.1-bitAnd2-bitCharacters.java)           | Array                                              |
 | 724      | Find Pivot Index                                  |    Easy    |               [BestJava](/Algorithms/BestJava/724.FindPivotIndex.java)               | Array                                              |
