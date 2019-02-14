@@ -125,6 +125,7 @@
 | 706      | Design HashMap                                     |    Easy    |                [BestJava](/Algorithms/BestJava/706.DesignHashMap.java)                 | Hash Table,Design                                             |
 | 709      | To Lower Case                                     |    Easy    |                [BestJava](/Algorithms/BestJava/709.ToLowerCase.java)                 | String                                             |
 | 717      | 1-bit and 2-bit Characters                        |    Easy    |          [BestJava](/Algorithms/BestJava/717.1-bitAnd2-bitCharacters.java)           | Array                                              |
+| 720      | Longest Word in Dictionary                                  |    Easy    |               [BestJava](/Algorithms/BestJava/720.LongestWordInDictionary.java)               | Hash Table,Trie                                              |
 | 724      | Find Pivot Index                                  |    Easy    |               [BestJava](/Algorithms/BestJava/724.FindPivotIndex.java)               | Array                                              |
 | 728 ❤    | Self Dividing Numbers                             |    Easy    |            [BestJava](/Algorithms/BestJava/728.SelfDividingNumbers.java)             | Math                                               |
 | 762 ❤    | Prime Number of Set Bits in Binary Representation |    Easy    | [BestJava](/Algorithms/BestJava/762.PrimeNumberOfSetBitsInBinaryRepresentation.java) | Bit Manipulation                                   |
