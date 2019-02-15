@@ -77,6 +77,7 @@
 | 412      | Fizz Buzz                                         |    Easy    |                  [BestJava](/Algorithms/BestJava/412.FizzBuzz.java)                  |
 | 414      | Third Maximum Number                              |    Easy    |             [BestJava](/Algorithms/BestJava/414.ThirdMaximumNumber.java)             | Array                                              |
 | 415 ❤     | Add Strings                              |    Easy    |             [BestJava](/Algorithms/BestJava/415.AddStrings.java)             | Math                                              |
+| 434      | Number of Segments in a String                                      |    Easy    |                 [BestJava](/Algorithms/BestJava/434.NumberOfSegmentsInaString.java)                 | String                                               |
 | 437      | Path Sum III                                      |    Easy    |                 [BestJava](/Algorithms/BestJava/437.PathSumIII.java)                 | Tree                                               |
 | 438 ❤    | Find All Anagrams in a String                                      |    Easy    |                 [BestJava](/Algorithms/BestJava/438.FindAllAnagramsInAString.java)                 | Hash Table                                               |
 | 441      | Arranging Coins                                      |    Easy    |                 [BestJava](/Algorithms/BestJava/441.ArrangingCoins.java)                 | Math,Binary Search                                               |
