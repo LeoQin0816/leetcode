@@ -132,6 +132,7 @@
 | 762 ❤    | Prime Number of Set Bits in Binary Representation |    Easy    | [BestJava](/Algorithms/BestJava/762.PrimeNumberOfSetBitsInBinaryRepresentation.java) | Bit Manipulation                                   |
 | 746      | Min Cost Climbing Stairs                          |    Easy    |           [BestJava](/Algorithms/BestJava/746.MinCostClimbingStairs.java)            | Array,Dynamic Programming                          |
 | 747      | Largest Number At Least Twice of Others           |    Easy    |     [BestJava](/Algorithms/BestJava/747.LargestNumberAtLeastTwiceOfOthers.java)      | Array                                              |
+| 754      | Reach a Number           |    Easy    |     [BestJava](/Algorithms/BestJava/754.ReachaNumber.java)      | Math                                              |
 | 766      | Toeplitz Matrix                                   |    Easy    |               [BestJava](/Algorithms/BestJava/766.ToeplitzMatrix.java)               | Array                                              |
 | 771      | Jewels and Stones                                 |    Easy    |              [BestJava](/Algorithms/BestJava/771.JewelsAndStones.java)               | Hash Table                                         |
 | 784 ❤    | Letter Case Permutation                           |    Easy    |           [BestJava](/Algorithms/BestJava/784.LetterCasePermutation.java)            | Bit Manipulation,Backtracking                      |
