@@ -89,6 +89,7 @@
 | 453      | Minimum Moves to Equal Array Elements          |    Easy    |     [BestJava](/Algorithms/BestJava/453.MinimumMovesToEqualArrayElements.java)     | Math                                              |
 | 461      | Hamming Distance                                  |    Easy    |              [BestJava](/Algorithms/BestJava/461.HammingDistance.java)               | Bit Manipulation                                   |
 | 463      | Island Perimeter                                  |    Easy    |              [BestJava](/Algorithms/BestJava/463.IslandPerimeter.java)               | Hash Table                                         |
+| 475      | Heaters                                 |    Easy    |              [BestJava](/Algorithms/BestJava/475.Heaters.java)              | Bit Manipulation                                   |
 | 476      | Number Complement                                 |    Easy    |              [BestJava](/Algorithms/BestJava/476.NumberComplement.java)              | Bit Manipulation                                   |
 | 485      | Max Consecutive Ones                              |    Easy    |             [BestJava](/Algorithms/BestJava/485.MaxConsecutiveOnes.java)             | Array                                              |
 | 496 ❤    | Next Greater Element I                            |    Easy    |            [BestJava](/Algorithms/BestJava/496.NextGreaterElementI.java)             | Stack                                              |

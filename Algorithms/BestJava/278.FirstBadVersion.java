@@ -19,7 +19,7 @@ Then 4 is the first bad version.
 /* The isBadVersion API is defined in the parent class VersionControl.
       boolean isBadVersion(int version); */
 
-public class Solution278 extends VersionControl {
+class Solution278 {
     public int firstBadVersion(int n) {
         int start = 1, end = n;
         while (start < end) {
@@ -28,5 +28,13 @@ public class Solution278 extends VersionControl {
             else end = mid;
         }
         return start;
+    }
+
+    private boolean isBadVersion(int i) {
+        return i == 4;
+    }
+
+    public static void main(String[] args) {
+        System.out.println(new Solution278().firstBadVersion(4));
     }
 }

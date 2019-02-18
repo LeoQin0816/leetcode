@@ -22,7 +22,7 @@ Output: 6
    @return -1 if my number is lower, 1 if my number is higher, otherwise return 0
       int guess(int num); */
 
-public class Solution374 extends GuessGame {
+class Solution374 {
     public int guessNumber(int n) {
         int i = 1, j = n;
         while (i < j) {
@@ -36,5 +36,19 @@ public class Solution374 extends GuessGame {
             }
         }
         return i;
+    }
+
+    private int guess(int i) {
+        if (i == 6) {
+            return 0;
+        } else if (i < 6) {
+            return -1;
+        } else {
+            return 1;
+        }
+    }
+
+    public static void main(String[] args) {
+        System.out.println(new Solution374().guessNumber(10));
     }
 }
