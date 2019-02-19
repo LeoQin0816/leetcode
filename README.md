@@ -52,6 +52,7 @@
 | 206      | Reverse Linked List                               |    Easy    |             [BestJava](/Algorithms/BestJava/206.ReverseLinkedList.java)              | Linked List                                        |
 | 217      | Contains Duplicate                                |    Easy    |             [BestJava](/Algorithms/BestJava/217.ContainsDuplicate.java)              | Array                                              |
 | 219 ❤    | Contains Duplicate II                             |    Easy    |            [BestJava](/Algorithms/BestJava/219.ContainsDuplicateII.java)             | Array,Hash Table                                   |
+| 225      | Implement Stack using Queues                                |    Easy    |                [BestJava](/Algorithms/BestJava/225.ImplementStackUsingQueues.java)                | Stack,Design                        |
 | 226      | Invert Binary Tree                                |    Easy    |                [BestJava](/Algorithms/BestJava/136.SingleNumber.java)                | Hash Table,Bit Manipulation                        |
 | 231      | Power of Two                                |    Easy    |                [BestJava](/Algorithms/BestJava/231.PowerOfTwo.java)                | Math,Bit Manipulation                        |
 | 234 ❤    | Palindrome Linked List                            |    Easy    |            [BestJava](/Algorithms/BestJava/234.PalindromeLinkedList.java)            | Linked List,Two Pointers                           |
