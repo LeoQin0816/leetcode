@@ -34,6 +34,7 @@
 | 108      | Convert Sorted Array to Binary Search Tree                      |    Easy    |          [BestJava](/Algorithms/BestJava/108.ConvertSortedArrayToBinarySearchTree.java)          | Tree , Depth-first Search                            |
 | 110      |  Balanced Binary Tree                      |    Easy    |          [BestJava](/Algorithms/BestJava/110.BalancedBinaryTree.java)          | Tree , Depth-first Search                            |
 | 111 ❤     |  Minimum Depth of Binary Tree            |    Easy    |          [BestJava](/Algorithms/BestJava/111.MinimumDepthOfBinaryTree.java)          | Tree , Depth-first Search , Breadth-first Search                            |
+| 112 ❤     |  Path Sum            |    Easy    |          [BestJava](/Algorithms/BestJava/112.PathSum.java)          | Tree , Depth-first Search                            |
 | 118 ❤    | Pascal's Triangle                                 |    Easy    |              [BestJava](/Algorithms/BestJava/118.Pascal'sTriangle.java)              | Array                                              |
 | 119 ❤    | Pascal's Triangle II                              |    Easy    |             [BestJava](/Algorithms/BestJava/119.Pascal'sTriangleII.java)             | Array                                              |
 | 121 ❤    | Best Time to Buy and Sell Stock                   |    Easy    |         [BestJava](/Algorithms/BestJava/121.BestTimeToBuyAndSellStock.java)          | Array , Dynamic Programming                          |
