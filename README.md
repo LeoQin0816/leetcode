@@ -63,6 +63,7 @@
 | 231      | Power of Two                                |    Easy    |                [BestJava](/Algorithms/BestJava/231.PowerOfTwo.java)                | Math , Bit Manipulation                        |
 | 232 ❤      | Implement Queue using Stacks                                |    Easy    |                [BestJava](/Algorithms/BestJava/232.ImplementQueueUsingStacks.java)                | Stack , Design                        |
 | 234 ❤    | Palindrome Linked List                            |    Easy    |            [BestJava](/Algorithms/BestJava/234.PalindromeLinkedList.java)            | Linked List , Two Pointers                           |
+| 235    | Lowest Common Ancestor of a Binary Search Tree                            |    Easy    |            [BestJava](/Algorithms/BestJava/235.LowestCommonAncestorOfABinarySearchTree.java)            | Tree                          |
 | 237    | Delete Node in a Linked List                            |    Easy    |            [BestJava](/Algorithms/BestJava/237.DeleteNodeInALinkedList.java)            | Linked List                          |
 | 242      | Valid Anagram                                        |    Easy    |                 [BestJava](/Algorithms/BestJava/242.ValidAnagram.java)                  | Hash Table , Sort                                               |
 | 258      | Add Digits                                        |    Easy    |                 [BestJava](/Algorithms/BestJava/258.AddDigits.java)                  | Math                                               |
