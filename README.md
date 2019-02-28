@@ -108,6 +108,7 @@
 | 485      | Max Consecutive Ones                              |    Easy    |             [BestJava](/Algorithms/BestJava/485.MaxConsecutiveOnes.java)             | Array                                              |
 | 496 ❤    | Next Greater Element I                            |    Easy    |            [BestJava](/Algorithms/BestJava/496.NextGreaterElementI.java)             | Stack                                              |
 | 500 ❤    | Keyboard Row                                      |    Easy    |                [BestJava](/Algorithms/BestJava/500.KeyboardRow.java)                 | Hash Table                                         |
+| 501    | Find Mode in Binary Search Tree                                      |    Easy    |                [BestJava](/Algorithms/BestJava/501.FindModeInBinarySearchTree.java)                 | Tree                                         |
 | 507      | Perfect Number                                      |    Easy    |                [BestJava](/Algorithms/BestJava/507.PerfectNumber.java)                 | Math                                         |
 | 509      | Fibonacci Number                                      |    Easy    |                [BestJava](/Algorithms/BestJava/509.FibonacciNumber.java)                 | Array                                         |
 | 520      | Detect Capital                                    |    Easy    |               [BestJava](/Algorithms/BestJava/520.DetectCapital.java)                | String                                             |
