@@ -117,6 +117,7 @@
 | 543 ❤    | Diameter of Binary Tree                           |    Easy    |            [BestJava](/Algorithms/BestJava/543.DiameterOfBinaryTree.java)            | Tree                                               |
 | 556      | Reshape the Matrix                                |    Easy    |              [BestJava](/Algorithms/BestJava/566.ReshapeTheMatrix.java)              | Array                                              |
 | 557      | Reverse Words in a String III                     |    Easy    |          [BestJava](/Algorithms/BestJava/557.ReverseWordsInAStringIII.java)          | String                                             |
+| 559      | Maximum Depth of N-ary Tree                     |    Easy    |          [BestJava](/Algorithms/BestJava/559.MaximumDepthOfN-aryTree.java)          | Tree , Depth-first Search , Breadth-first Search                                             |
 | 561      | Array Partition I                                 |    Easy    |              [BestJava](/Algorithms/BestJava/561.ArrayPartitionI.java)               | Array                                              |
 | 572      | Subtree of Another Tree                           |    Easy    |            [BestJava](/Algorithms/BestJava/572.SubtreeOfAnotherTree.java)            | Tree                                               |
 | 575      | Distribute Candies                                |    Easy    |             [BestJava](/Algorithms/BestJava/575.DistributeCandies.java)              | Hash Table                                         |
