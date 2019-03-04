@@ -6,7 +6,7 @@
 # @File    : test.py
 # @Software: PyCharm
 
-import TreeNode;
+import Utils.TreeNode;
 
-l = TreeNode.stringToTreeNode("[1,2,3,4,null,5]")
-TreeNode.prettyPrintTree(l)
+l = Utils.TreeNode.stringToTreeNode("[1,2,3,4,null,5]")
+Utils.TreeNode.prettyPrintTree(l)

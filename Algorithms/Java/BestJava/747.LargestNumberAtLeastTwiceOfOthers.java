@@ -1,4 +1,5 @@
-package BestJava;/*
+package BestJava;
+/*
 747. Largest Number At Least Twice of Others
 
 In a given integer array nums, there is always exactly one largest element.

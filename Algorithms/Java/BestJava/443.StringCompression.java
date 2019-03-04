@@ -1,4 +1,5 @@
-package BestJava;/*
+package BestJava;
+/*
 Given an array of characters, compress it in-place.
 
 The length after compression must always be smaller than or equal to the original array.

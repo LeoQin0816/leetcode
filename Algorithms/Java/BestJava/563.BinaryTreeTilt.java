@@ -1,4 +1,5 @@
-package BestJava;/*
+package BestJava;
+/*
 Given a binary tree, return the tilt of the whole tree.
 
 The tilt of a tree node is defined as the absolute difference between the sum of all left subtree node values and the sum of all right subtree node values. Null node has tilt 0.
@@ -22,13 +23,16 @@ The sum of node values in any subtree won't exceed the range of 32-bit integer.
 All the tilt values won't exceed the range of 32-bit integer.
  */
 
+import Utils.TreeNode.TreeNode;
+import Utils.TreeNode.TreeWrapper;
+
 /**
  * Definition for a binary tree node.
- * public class TreeNode {
+ * public class Utils.TreeNode {
  * int val;
- * TreeNode left;
- * TreeNode right;
- * TreeNode(int x) { val = x; }
+ * Utils.TreeNode left;
+ * Utils.TreeNode right;
+ * Utils.TreeNode(int x) { val = x; }
  * }
  */
 class Solution563 {

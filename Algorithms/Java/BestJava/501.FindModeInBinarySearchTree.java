@@ -1,4 +1,5 @@
-package BestJava;/*
+package BestJava;
+/*
 Given a binary search tree (BST) with duplicates, find all the mode(s) (the most frequently occurred element) in the given BST.
 
 Assume a BST is defined as follows:
@@ -25,15 +26,18 @@ Note: If a tree has more than one mode, you can return them in any order.
 Follow up: Could you do that without using any extra space? (Assume that the implicit stack space incurred due to recursion does not count).
  */
 
+import Utils.TreeNode.TreeNode;
+import Utils.TreeNode.TreeWrapper;
+
 import java.util.*;
 
 /**
  * Definition for a binary tree node.
- * public class TreeNode {
+ * public class Utils.TreeNode {
  * int val;
- * TreeNode left;
- * TreeNode right;
- * TreeNode(int x) { val = x; }
+ * Utils.TreeNode left;
+ * Utils.TreeNode right;
+ * Utils.TreeNode(int x) { val = x; }
  * }
  */
 class Solution501 {

@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 # Definition for a binary tree node.
-class TreeNode:
+class Utils.TreeNode:
     def __init__(self, x):
         self.val = x
         self.left = None
@@ -36,7 +36,7 @@ def stringToTreeNode(input):
         return None
 
     inputValues = [s.strip() for s in input.split(',')]
-    root = TreeNode(int(inputValues[0]))
+    root = Utils.TreeNode(int(inputValues[0]))
     nodeQueue = [root]
     front = 0
     index = 1
@@ -48,7 +48,7 @@ def stringToTreeNode(input):
         index = index + 1
         if item != "null":
             leftNumber = int(item)
-            node.left = TreeNode(leftNumber)
+            node.left = Utils.TreeNode(leftNumber)
             nodeQueue.append(node.left)
 
         if index >= len(inputValues):
@@ -58,7 +58,7 @@ def stringToTreeNode(input):
         index = index + 1
         if item != "null":
             rightNumber = int(item)
-            node.right = TreeNode(rightNumber)
+            node.right = Utils.TreeNode(rightNumber)
             nodeQueue.append(node.right)
     return root
 

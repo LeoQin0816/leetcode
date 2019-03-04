@@ -1,4 +1,5 @@
-package BestJava;/*
+package BestJava;
+/*
 Design a HashMap without using any built-in hash table libraries.
 
 To be specific, your design should include these functions:
@@ -27,6 +28,16 @@ Please do not use the built-in HashMap library.
  */
 
 class MyHashMap {
+
+    class ListNode {
+        int key, val;
+        ListNode next;
+
+        ListNode(int key, int val) {
+            this.key = key;
+            this.val = val;
+        }
+    }
 
     final ListNode[] nodes = new ListNode[10000];
 
@@ -67,16 +78,6 @@ class MyHashMap {
             node = node.next;
         }
         return prev;
-    }
-
-    class ListNode {
-        int key, val;
-        ListNode next;
-
-        ListNode(int key, int val) {
-            this.key = key;
-            this.val = val;
-        }
     }
 
     public static void main(String[] args) {

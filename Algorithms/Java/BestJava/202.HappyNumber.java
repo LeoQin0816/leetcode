@@ -1,4 +1,5 @@
-package BestJava;/*
+package BestJava;
+/*
 202. Happy Number
 
 Write an algorithm to determine if a number is "happy".

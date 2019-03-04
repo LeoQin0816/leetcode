@@ -1,4 +1,5 @@
-package BestJava;/*
+package BestJava;
+/*
 538. Convert BST to Greater Tree
 
 Given a Binary Search Tree (BST), convert it to a Greater Tree such that every key of the original BST is changed to the original key plus sum of all keys greater than the original key in BST.
@@ -16,13 +17,16 @@ Output: The root of a Greater Tree like this:
           20     13
  */
 
+import Utils.TreeNode.TreeNode;
+import Utils.TreeNode.TreeWrapper;
+
 /**
  * Definition for a binary tree node.
- * public class TreeNode {
+ * public class Utils.TreeNode {
  * int val;
- * TreeNode left;
- * TreeNode right;
- * TreeNode(int x) { val = x; }
+ * Utils.TreeNode left;
+ * Utils.TreeNode right;
+ * Utils.TreeNode(int x) { val = x; }
  * }
  */
 class Solution538 {

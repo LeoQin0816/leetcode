@@ -1,4 +1,5 @@
-package BestJava;/*
+package BestJava;
+/*
 697. Degree of an Array
 
 Given a non-empty array of non-negative integers nums, the degree of this array is defined as the maximum frequency of any one of its elements.

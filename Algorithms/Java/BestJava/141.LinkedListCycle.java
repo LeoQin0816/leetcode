@@ -1,4 +1,5 @@
-package BestJava;/*
+package BestJava;
+/*
 141. Linked List Cycle
 
 Given a linked list, determine if it has a cycle in it.
@@ -7,12 +8,15 @@ Follow up:
 Can you solve it without using extra space?
  */
 
+import Utils.ListNode.ListNode;
+import Utils.ListNode.LinkedListWrapper;
+
 /**
  * Definition for singly-linked list.
- * class ListNode {
+ * class Utils.ListNode {
  * int val;
- * ListNode next;
- * ListNode(int x) {
+ * Utils.ListNode next;
+ * Utils.ListNode(int x) {
  * val = x;
  * next = null;
  * }

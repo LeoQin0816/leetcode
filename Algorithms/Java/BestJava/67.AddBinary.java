@@ -1,4 +1,5 @@
-package BestJava;/*
+package BestJava;
+/*
 67. Add Binary
 
 Given two binary strings, return their sum (also a binary string).

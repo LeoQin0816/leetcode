@@ -1,16 +1,16 @@
-package BestJava;
+package Utils.ListNode;
 
-class LinkedListWrapper {
+public class LinkedListWrapper {
     /**
      * Definition for singly-linked list.
-     * public class ListNode {
+     * public class Utils.ListNode {
      * int val;
-     * ListNode next;
-     * ListNode(int x) { val = x; }
+     * Utils.ListNode next;
+     * Utils.ListNode(int x) { val = x; }
      * }
      */
 
-    private static int[] stringToIntegerArray(String input) {
+    public static int[] stringToIntegerArray(String input) {
         input = input.trim();
         input = input.substring(1, input.length() - 1);
         if (input.length() == 0) {
@@ -26,7 +26,7 @@ class LinkedListWrapper {
         return output;
     }
 
-    static ListNode stringToListNode(String input) {
+    public static ListNode stringToListNode(String input) {
         // Generate array from the input
         int[] nodeValues = stringToIntegerArray(input);
 
@@ -40,7 +40,7 @@ class LinkedListWrapper {
         return dummyRoot.next;
     }
 
-    static void prettyPrintLinkedList(ListNode node) {
+    public static void prettyPrintLinkedList(ListNode node) {
         while (node != null && node.next != null) {
             System.out.print(node.val + "->");
             node = node.next;
@@ -53,7 +53,7 @@ class LinkedListWrapper {
         }
     }
 
-    static boolean compareTwoListNode(ListNode node1, ListNode node2) {
+    public static boolean compareTwoListNode(ListNode node1, ListNode node2) {
         if (node1 == null || node2 == null) {
             return false;
         }

@@ -1,4 +1,5 @@
-package BestJava;/*
+package BestJava;
+/*
 100. Same Tree
 
 Given two binary trees, write a function to check if they are the same or not.
@@ -35,13 +36,16 @@ Input:     1         1
 Output: false
  */
 
+import Utils.TreeNode.TreeNode;
+import Utils.TreeNode.TreeWrapper;
+
 /**
  * Definition for a binary tree node.
- * public class TreeNode {
+ * public class Utils.TreeNode {
  * int val;
- * TreeNode left;
- * TreeNode right;
- * TreeNode(int x) { val = x; }
+ * Utils.TreeNode left;
+ * Utils.TreeNode right;
+ * Utils.TreeNode(int x) { val = x; }
  * }
  */
 class Solution100 {

@@ -1,4 +1,5 @@
-package BestJava;/*
+package BestJava;
+/*
 203. Remove Linked List Elements
 
 Remove all elements from a linked list of integers that have value val.
@@ -9,12 +10,15 @@ Input:  1->2->6->3->4->5->6, val = 6
 Output: 1->2->3->4->5
  */
 
+import Utils.ListNode.ListNode;
+import Utils.ListNode.LinkedListWrapper;
+
 /**
  * Definition for singly-linked list.
- * public class ListNode {
+ * public class Utils.ListNode {
  * int val;
- * ListNode next;
- * ListNode(int x) { val = x; }
+ * Utils.ListNode next;
+ * Utils.ListNode(int x) { val = x; }
  * }
  */
 class Solution203 {

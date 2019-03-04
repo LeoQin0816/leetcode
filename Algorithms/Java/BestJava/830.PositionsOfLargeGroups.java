@@ -1,4 +1,5 @@
-package BestJava;/*
+package BestJava;
+/*
 830. Positions of Large Groups
 
 In a string S of lowercase letters, these letters form consecutive groups of the same character.

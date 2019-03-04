@@ -1,4 +1,5 @@
-package BestJava;/*
+package BestJava;
+/*
 226. Invert Binary Tree
 
 Invert a binary tree.
@@ -25,13 +26,16 @@ This problem was inspired by this original tweet by Max Howell:
 Google: 90% of our engineers use the software you wrote (Homebrew), but you can’t invert a binary tree on a whiteboard so f*** off.
  */
 
+import Utils.TreeNode.TreeNode;
+import Utils.TreeNode.TreeWrapper;
+
 /**
  * Definition for a binary tree node.
- * public class TreeNode {
+ * public class Utils.TreeNode {
  * int val;
- * TreeNode left;
- * TreeNode right;
- * TreeNode(int x) { val = x; }
+ * Utils.TreeNode left;
+ * Utils.TreeNode right;
+ * Utils.TreeNode(int x) { val = x; }
  * }
  */
 class Solution226 {

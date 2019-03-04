@@ -1,5 +1,6 @@
-package BestJava;/*
-237. Delete Node in a Linked List
+package BestJava;
+/*
+237. Delete Utils.Node in a Linked List
 
 Write a function to delete a node (except the tail) in a singly linked list, given only access to that node.
 
@@ -28,12 +29,14 @@ The given node will not be the tail and it will always be a valid node of the li
 Do not return anything from your function.
  */
 
+import Utils.ListNode.ListNode;
+
 /**
  * Definition for singly-linked list.
- * public class ListNode {
+ * public class Utils.ListNode {
  *     int val;
- *     ListNode next;
- *     ListNode(int x) { val = x; }
+ *     Utils.ListNode next;
+ *     Utils.ListNode(int x) { val = x; }
  * }
  */
 class Solution237 {

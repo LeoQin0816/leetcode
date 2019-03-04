@@ -1,4 +1,5 @@
-package BestJava;/*
+package BestJava;
+/*
 28. Implement strStr()
 
 Implement strStr().

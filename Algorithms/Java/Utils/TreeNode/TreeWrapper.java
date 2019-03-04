@@ -1,16 +1,16 @@
-package BestJava;
+package Utils.TreeNode;
 
 import java.util.LinkedList;
 import java.util.Queue;
 
-class TreeWrapper {
+public class TreeWrapper {
     /**
      * Definition for a binary tree node.
-     * public class TreeNode {
+     * public class Utils.TreeNode {
      * int val;
-     * TreeNode left;
-     * TreeNode right;
-     * TreeNode(int x) { val = x; }
+     * Utils.TreeNode left;
+     * Utils.TreeNode right;
+     * Utils.TreeNode(int x) { val = x; }
      * }
      */
 
@@ -81,7 +81,7 @@ class TreeWrapper {
         return root;
     }
 
-    private static void prettyPrintTree(TreeNode node, String prefix, boolean isLeft) {
+    public static void prettyPrintTree(TreeNode node, String prefix, boolean isLeft) {
         if (node == null) {
             System.out.println("Empty tree");
             return;
@@ -98,7 +98,7 @@ class TreeWrapper {
         }
     }
 
-    static void prettyPrintTree(TreeNode node) {
+    public static void prettyPrintTree(TreeNode node) {
         prettyPrintTree(node, "", true);
     }
 

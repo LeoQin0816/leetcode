@@ -1,4 +1,5 @@
-package BestJava;/*
+package BestJava;
+/*
 66. Plus One
 
 Given a non-empty array of digits representing a non-negative integer, plus one to the integer.

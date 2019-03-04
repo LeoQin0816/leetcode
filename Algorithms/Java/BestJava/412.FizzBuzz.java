@@ -1,4 +1,5 @@
-package BestJava;/*
+package BestJava;
+/*
 Fizz Buzz
 
 Write a program that outputs the string representation of numbers from 1 to n.

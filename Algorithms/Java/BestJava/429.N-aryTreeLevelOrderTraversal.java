@@ -1,4 +1,5 @@
-package BestJava;/*
+package BestJava;
+/*
 
 Given an n-ary tree, return the level order traversal of its nodes' values. (ie, from left to right, level by level).
 
@@ -26,19 +27,21 @@ The total number of nodes is at most 5000.
  */
 
 
+import Utils.Node.Node;
+
 import java.util.LinkedList;
 import java.util.List;
 import java.util.Queue;
 
 /*
-// Definition for a Node.
-class Node {
+// Definition for a Utils.Node.
+class Utils.Node {
     public int val;
-    public List<Node> children;
+    public List<Utils.Node> children;
 
-    public Node() {}
+    public Utils.Node() {}
 
-    public Node(int _val,List<Node> _children) {
+    public Utils.Node(int _val,List<Utils.Node> _children) {
         val = _val;
         children = _children;
     }

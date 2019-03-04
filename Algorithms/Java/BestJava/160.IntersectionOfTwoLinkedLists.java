@@ -1,4 +1,5 @@
-package BestJava;/*
+package BestJava;
+/*
 160. Intersection of Two Linked Lists
 
 Write a program to find the node at which the intersection of two singly linked lists begins.
@@ -22,12 +23,15 @@ You may assume there are no cycles anywhere in the entire linked structure.
 Your code should preferably run in O(n) time and use only O(1) memory.
  */
 
+import Utils.ListNode.ListNode;
+import Utils.ListNode.LinkedListWrapper;
+
 /**
  * Definition for singly-linked list.
- * public class ListNode {
+ * public class Utils.ListNode {
  * int val;
- * ListNode next;
- * ListNode(int x) {
+ * Utils.ListNode next;
+ * Utils.ListNode(int x) {
  * val = x;
  * next = null;
  * }

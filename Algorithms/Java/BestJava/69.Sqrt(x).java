@@ -1,4 +1,5 @@
-package BestJava;/*
+package BestJava;
+/*
 69. Sqrt(x)
 
 Implement int sqrt(int x).

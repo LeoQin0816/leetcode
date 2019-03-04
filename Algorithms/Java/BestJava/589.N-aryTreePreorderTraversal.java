@@ -1,4 +1,5 @@
-package BestJava;/*
+package BestJava;
+/*
 Given an n-ary tree, return the preorder traversal of its nodes' values.
 
 For example, given a 3-ary tree:
@@ -18,20 +19,22 @@ Note:
 Recursive solution is trivial, could you do it iteratively?
  */
 
+import Utils.Node.Node;
+
 import java.util.ArrayList;
 import java.util.LinkedList;
 import java.util.List;
 import java.util.Stack;
 
 /*
-// Definition for a Node.
-class Node {
+// Definition for a Utils.Node.
+class Utils.Node {
     public int val;
-    public List<Node> children;
+    public List<Utils.Node> children;
 
-    public Node() {}
+    public Utils.Node() {}
 
-    public Node(int _val,List<Node> _children) {
+    public Utils.Node(int _val,List<Utils.Node> _children) {
         val = _val;
         children = _children;
     }

@@ -1,4 +1,5 @@
-package BestJava;/*
+package BestJava;
+/*
 690. Employee Importance
 
 You are given a data structure of employee information, which includes the employee's unique id, his importance value and his direct subordinates' id.
@@ -16,15 +17,17 @@ One employee has at most one direct leader and may have several subordinates.
 The maximum number of employees won't exceed 2000.
  */
 
+
 import java.util.*;
 
-class Employee {
-    public int id;
-    public int importance;
-    public List<Integer> subordinates;
-}
-
 class Solution690 {
+
+    class Employee {
+        public int id;
+        public int importance;
+        public List<Integer> subordinates;
+    }
+
     public int getImportanceBFS(List<Employee> employees, int id) {
         int total = 0;
         Map<Integer, Employee> map = new HashMap<>();
@@ -62,7 +65,8 @@ class Solution690 {
 
     public static void main(String[] args) {
         List<Employee> employees = new ArrayList<>();
-        Employee employee = new Employee();
+        Solution690 solution690 = new Solution690();
+        Employee employee = solution690.new Employee();
         employee.id = 1;
         employee.importance = 5;
         List<Integer> list = new ArrayList<>();
@@ -70,13 +74,13 @@ class Solution690 {
         list.add(3);
         employee.subordinates = list;
         employees.add(employee);
-        employee = new Employee();
+        employee = solution690.new Employee();
         employee.id = 2;
         employee.importance = 3;
         list = new ArrayList<>();
         employee.subordinates = list;
         employees.add(employee);
-        employee = new Employee();
+        employee = solution690.new Employee();
         employee.id = 3;
         employee.importance = 3;
         employee.subordinates = list;

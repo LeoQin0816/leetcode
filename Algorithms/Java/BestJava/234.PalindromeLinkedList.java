@@ -1,4 +1,5 @@
-package BestJava;/*
+package BestJava;
+/*
 234. Palindrome Linked List
 
 Given a singly linked list, determine if it is a palindrome.
@@ -17,12 +18,15 @@ Follow up:
 Could you do it in O(n) time and O(1) space?
  */
 
+import Utils.ListNode.ListNode;
+import Utils.ListNode.LinkedListWrapper;
+
 /**
  * Definition for singly-linked list.
- * public class ListNode {
+ * public class Utils.ListNode {
  * int val;
- * ListNode next;
- * ListNode(int x) { val = x; }
+ * Utils.ListNode next;
+ * Utils.ListNode(int x) { val = x; }
  * }
  */
 class Solution234 {

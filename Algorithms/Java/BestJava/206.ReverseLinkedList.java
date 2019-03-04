@@ -1,4 +1,5 @@
-package BestJava;/*
+package BestJava;
+/*
 206. Reverse Linked List
 
 Reverse a singly linked list.
@@ -11,12 +12,15 @@ Follow up:
 A linked list can be reversed either iteratively or recursively. Could you implement both?
  */
 
+import Utils.ListNode.ListNode;
+import Utils.ListNode.LinkedListWrapper;
+
 /**
  * Definition for singly-linked list.
- * public class ListNode {
+ * public class Utils.ListNode {
  * int val;
- * ListNode next;
- * ListNode(int x) { val = x; }
+ * Utils.ListNode next;
+ * Utils.ListNode(int x) { val = x; }
  * }
  */
 class Solution206 {

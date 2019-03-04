@@ -1,4 +1,5 @@
-package BestJava;/*
+package BestJava;
+/*
 594. Longest Harmonious Subsequence
 
 We define a harmonious array is an array where the difference between its maximum value and its minimum value is exactly 1.

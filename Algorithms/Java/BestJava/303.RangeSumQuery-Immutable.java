@@ -1,4 +1,5 @@
-package BestJava;/*
+package BestJava;
+/*
 Given an integer array nums, find the sum of the elements between indices i and j (i ≤ j), inclusive.
 
 Example:

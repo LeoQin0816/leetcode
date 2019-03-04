@@ -1,4 +1,5 @@
-package BestJava;/*
+package BestJava;
+/*
 205. Isomorphic Strings
 
 Given two strings s and t, determine if they are isomorphic.

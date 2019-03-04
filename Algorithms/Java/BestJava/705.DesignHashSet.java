@@ -1,4 +1,5 @@
-package BestJava;/*
+package BestJava;
+/*
 Design a HashSet without using any built-in hash table libraries.
 
 To be specific, your design should include these functions:

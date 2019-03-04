@@ -1,4 +1,5 @@
-package BestJava;/*
+package BestJava;
+/*
 Given a n-ary tree, find its maximum depth.
 
 The maximum depth is the number of nodes along the longest path from the root node down to the farthest leaf node.
@@ -20,18 +21,20 @@ The depth of the tree is at most 1000.
 The total number of nodes is at most 5000.
  */
 
+import Utils.Node.Node;
+
 import java.util.LinkedList;
 import java.util.List;
 
 /*
-// Definition for a Node.
-class Node {
+// Definition for a Utils.Node.
+class Utils.Node {
     public int val;
-    public List<Node> children;
+    public List<Utils.Node> children;
 
-    public Node() {}
+    public Utils.Node() {}
 
-    public Node(int _val,List<Node> _children) {
+    public Utils.Node(int _val,List<Utils.Node> _children) {
         val = _val;
         children = _children;
     }

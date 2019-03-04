@@ -1,4 +1,5 @@
-package BestJava;/*
+package BestJava;
+/*
 598. Range Addition II
 
 Given an m * n matrix M initialized with all 0's and several update operations.

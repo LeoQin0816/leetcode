@@ -1,4 +1,5 @@
-package BestJava;/*
+package BestJava;
+/*
 Baseball Game
 
 You're now a baseball game point recorder.

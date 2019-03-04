@@ -1,4 +1,5 @@
-package BestJava;/*
+package BestJava;
+/*
 Toeplitz Matrix
 
 A matrix is Toeplitz if every diagonal from top-left to bottom-right has the same element.

@@ -1,4 +1,5 @@
-package BestJava;/*
+package BestJava;
+/*
 
 Find the sum of all left leaves in a given binary tree.
 
@@ -13,13 +14,16 @@ Example:
 There are two left leaves in the binary tree, with values 9 and 15 respectively. Return 24.
  */
 
+import Utils.TreeNode.TreeNode;
+import Utils.TreeNode.TreeWrapper;
+
 /**
  * Definition for a binary tree node.
- * public class TreeNode {
+ * public class Utils.TreeNode {
  * int val;
- * TreeNode left;
- * TreeNode right;
- * TreeNode(int x) { val = x; }
+ * Utils.TreeNode left;
+ * Utils.TreeNode right;
+ * Utils.TreeNode(int x) { val = x; }
  * }
  */
 class Solution404 {

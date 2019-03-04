@@ -1,4 +1,5 @@
-package BestJava;/*
+package BestJava;
+/*
 263. Ugly Number
 
 Write a program to check whether a given number is an ugly number.
