@@ -1,3 +1,8 @@
 .idea/
 output/
 */__pycache__
+*.iml
+Algorithms/MyJava/
+Algorithms/python/LinkedList/__pycache__/
+Algorithms/python/__pycache__/
+my/src/
