@@ -21,10 +21,10 @@ For the purpose of this problem, we will return 0 when needle is an empty string
 
 class Solution28 {
     public int strStr(String haystack, String needle) {
-        if (needle.length() == 0) return 0;
+        if (needle.length() == 0 || haystack.equals(needle)) return 0;
         int length = haystack.length() - needle.length();
         if (length < 0) return -1;
-        for (int i = 0; i < length; i++) {
+        for (int i = 0; i <= length; i++) {
             if (haystack.substring(i, i + needle.length()).equals(needle)) {
                 return i;
             }
