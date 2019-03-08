@@ -14,10 +14,9 @@ If you have figured out the O(n) solution, try coding another solution using the
 
 class Solution53 {
     public int maxSubArray(int[] nums) {
-        int maxHere = 0;
-        int max = 0;
-        for (int num : nums) {
-            maxHere = Math.max(num, maxHere + num);
+        int maxHere = nums[0], max = nums[0];
+        for (int i = 1; i < nums.length; i++) {
+            maxHere = Math.max(nums[i], maxHere + nums[i]);
             max = Math.max(max, maxHere);
         }
         return max;
