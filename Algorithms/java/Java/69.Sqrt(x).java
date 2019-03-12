@@ -1,4 +1,4 @@
-package MyJava;
+package Java;
 /*
 Implement int sqrt(int x).
 

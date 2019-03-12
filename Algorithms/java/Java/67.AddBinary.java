@@ -1,4 +1,4 @@
-package MyJava;
+package Java;
 /*
 Given two binary strings, return their sum (also a binary string).
 
