@@ -2,14 +2,16 @@
 # -*- coding: utf-8 -*-
 
 # Definition for a binary tree node.
-class Utils.TreeNode:
+
+
+class TreeNode:
     def __init__(self, x):
         self.val = x
         self.left = None
         self.right = None
 
 
-def treeNodeToString(root):
+def tree_node_to_string(root):
     if not root:
         return "[]"
     output = ""
@@ -29,52 +31,52 @@ def treeNodeToString(root):
     return "[" + output[:-2] + "]"
 
 
-def stringToTreeNode(input):
+def string_to_tree_node(input):
     input = input.strip()
     input = input[1:-1]
     if not input:
         return None
 
-    inputValues = [s.strip() for s in input.split(',')]
-    root = Utils.TreeNode(int(inputValues[0]))
-    nodeQueue = [root]
+    input_values = [s.strip() for s in input.split(',')]
+    root = TreeNode(int(input_values[0]))
+    node_queue = [root]
     front = 0
     index = 1
-    while index < len(inputValues):
-        node = nodeQueue[front]
+    while index < len(input_values):
+        node = node_queue[front]
         front = front + 1
 
-        item = inputValues[index]
+        item = input_values[index]
         index = index + 1
         if item != "null":
-            leftNumber = int(item)
-            node.left = Utils.TreeNode(leftNumber)
-            nodeQueue.append(node.left)
+            left_number = int(item)
+            node.left = TreeNode(left_number)
+            node_queue.append(node.left)
 
-        if index >= len(inputValues):
+        if index >= len(input_values):
             break
 
-        item = inputValues[index]
+        item = input_values[index]
         index = index + 1
         if item != "null":
-            rightNumber = int(item)
-            node.right = Utils.TreeNode(rightNumber)
-            nodeQueue.append(node.right)
+            right_number = int(item)
+            node.right = TreeNode(right_number)
+            node_queue.append(node.right)
     return root
 
 
-def prettyPrintTree(node, prefix="", isLeft=True):
+def pretty_print_tree(node, prefix="", is_left=True):
     if not node:
         print("Empty Tree")
         return
 
     if node.right:
-        prettyPrintTree(node.right, prefix + ("│   " if isLeft else "    "), False)
+        pretty_print_tree(node.right, prefix + ("│   " if is_left else "    "), False)
 
-    print(prefix + ("└── " if isLeft else "┌── ") + str(node.val))
+    print(prefix + ("└── " if is_left else "┌── ") + str(node.val))
 
     if node.left:
-        prettyPrintTree(node.left, prefix + ("    " if isLeft else "│   "), True)
+        pretty_print_tree(node.left, prefix + ("    " if is_left else "│   "), True)
 
 
 def main():
@@ -88,8 +90,8 @@ def main():
     while True:
         try:
             line = next(lines)
-            node = stringToTreeNode(line)
-            prettyPrintTree(node)
+            node = string_to_tree_node(line)
+            pretty_print_tree(node)
         except StopIteration:
             break
 

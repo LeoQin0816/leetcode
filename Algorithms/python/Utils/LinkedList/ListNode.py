@@ -5,32 +5,32 @@ import json
 
 
 # Definition for singly-linked list.
-class Utils.ListNode:
+class ListNode:
     def __init__(self, x):
         self.val = x
         self.next = None
 
 
-def stringToIntegerList(input):
+def string_to_integer_list(input):
     return json.loads(input)
 
 
-def stringToListNode(input):
+def string_to_list_node(input):
     # Generate list from the input
-    numbers = stringToIntegerList(input)
+    numbers = string_to_integer_list(input)
 
     # Now convert that list into linked list
-    dummyRoot = Utils.ListNode(0)
-    ptr = dummyRoot
+    dummy_root = ListNode(0)
+    ptr = dummy_root
     for number in numbers:
-        ptr.next = Utils.ListNode(number)
+        ptr.next = ListNode(number)
         ptr = ptr.next
 
-    ptr = dummyRoot.next
+    ptr = dummy_root.next
     return ptr
 
 
-def prettyPrintLinkedList(node):
+def pretty_print_linked_list(node):
     while node and node.next:
         print(str(node.val) + "->", end='')
         node = node.next
@@ -52,8 +52,8 @@ def main():
     while True:
         try:
             line = next(lines)
-            node = stringToListNode(line)
-            prettyPrintLinkedList(node)
+            node = string_to_list_node(line)
+            pretty_print_linked_list(node)
         except StopIteration:
             break
 
