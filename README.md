@@ -90,7 +90,7 @@
 | 389      | Find the Difference                               |    Easy    |             [BestJava](/Algorithms/java/BestJava/389.FindTheDifference.java) , [Java](/Algorithms/java/Java/389.FindTheDifference.java)               | Hash Table , Bit Manipulation                        |
 | 400      | Nth Digit                                         |    Easy    |                  [BestJava](/Algorithms/java/BestJava/400.NthDigit.java)                  | Math
 | 404 💓     | Sum of Left Leaves                                         |    Easy    |                  [BestJava](/Algorithms/java/BestJava/404.SumOfLeftLeaves.java) , [Java](/Algorithms/java/Java/404.SumOfLeftLeaves.java)                  | Tree
-| 409      | Longest Palindrome                                         |    Easy    |                  [BestJava](/Algorithms/java/BestJava/409.LongestPalindrome.java)                  | Hash Table
+| 409      | Longest Palindrome                                         |    Easy    |                  [BestJava](/Algorithms/java/BestJava/409.LongestPalindrome.java) , [Java](/Algorithms/java/Java/409.LongestPalindrome.java)                  | Hash Table
 | 412      | Fizz Buzz                                         |    Easy    |                  [BestJava](/Algorithms/java/BestJava/412.FizzBuzz.java)                  |
 | 414      | Third Maximum Number                              |    Easy    |             [BestJava](/Algorithms/java/BestJava/414.ThirdMaximumNumber.java)             | Array                                              |
 | 415 💓     | Add Strings                              |    Easy    |             [BestJava](/Algorithms/java/BestJava/415.AddStrings.java)             | Math                                              |
