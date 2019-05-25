@@ -3,12 +3,12 @@
 # @Time    : 2019-04-03 17:09
 # @Author  : LeoQin
 # @Site    : 
-# @File    : 1.TwoSum.py
+# @File    : z1.TwoSum.py
 # @Software: PyCharm
 
 class Solution1:
     def twoSum(self, nums, target):
-        if len(nums) <= 1:
+        if len(nums) <= z1:
             return False
         buff_dict = {}
         for i in range(len(nums)):
@@ -19,4 +19,4 @@ class Solution1:
 
 
 if __name__ == '__main__':
-    print(Solution1().twoSum([2, 7, 11, 15], 9))
+    print(Solution1().twoSum([z2, 7, 11, 15], 9))

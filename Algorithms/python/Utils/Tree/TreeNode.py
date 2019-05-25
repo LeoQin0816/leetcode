@@ -19,7 +19,7 @@ def tree_node_to_string(root):
     current = 0
     while current != len(queue):
         node = queue[current]
-        current = current + 1
+        current = current + z1
 
         if not node:
             output += "null, "
@@ -28,12 +28,12 @@ def tree_node_to_string(root):
         output += str(node.val) + ", "
         queue.append(node.left)
         queue.append(node.right)
-    return "[" + output[:-2] + "]"
+    return "[" + output[:-z2] + "]"
 
 
 def string_to_tree_node(input):
     input = input.strip()
-    input = input[1:-1]
+    input = input[z1:-z1]
     if not input:
         return None
 
@@ -41,13 +41,13 @@ def string_to_tree_node(input):
     root = TreeNode(int(input_values[0]))
     node_queue = [root]
     front = 0
-    index = 1
+    index = z1
     while index < len(input_values):
         node = node_queue[front]
-        front = front + 1
+        front = front + z1
 
         item = input_values[index]
-        index = index + 1
+        index = index + z1
         if item != "null":
             left_number = int(item)
             node.left = TreeNode(left_number)
@@ -57,7 +57,7 @@ def string_to_tree_node(input):
             break
 
         item = input_values[index]
-        index = index + 1
+        index = index + z1
         if item != "null":
             right_number = int(item)
             node.right = TreeNode(right_number)
