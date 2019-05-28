@@ -1,8 +1,8 @@
-## LeetCode
+# LeetCode
 
-### Algorithms
+## Algorithms
 
-##### BestJava is from discuss's top votes
+### BestJava is from discuss's top votes
 
 | Sequence | Title | Difficulty | Solution | Topic |
 | :- | :- | :-: | :-: | :- |
@@ -38,11 +38,11 @@
 | 118  | Pascal's Triangle  | Easy |[BestJava](/Algorithms/java/BestJava/118.pascals-triangle.java) , [Java](/Algorithms/java/Java/118.pascals-triangle.java)| Array|
 | 119  | Pascal's Triangle II| Easy |[BestJava](/Algorithms/java/BestJava/119.pascals-triangle-ii.java) , [Java](/Algorithms/java/Java/119.pascals-triangle-ii.java)| Array|
 | 121 💓 | Best Time to Buy and Sell Stock | Easy |  [BestJava](/Algorithms/java/BestJava/121.best-time-to-buy-and-sell-stock.java) , [Java](/Algorithms/java/Java/121.best-time-to-buy-and-sell-stock.java)| Array , Dynamic Programming|
-| 122 ❓| Best Time to Buy and Sell Stock II | Easy | [BestJava](/Algorithms/java/BestJava/122.best-time-to-buy-and-sell-stock-ii.java) , [Java](/Algorithms/java/Java/122.best-time-to-buy-and-sell-stock-ii.java)  | Array , Greedy |
+| 122 | Best Time to Buy and Sell Stock II | Easy | [BestJava](/Algorithms/java/BestJava/122.best-time-to-buy-and-sell-stock-ii.java) , [Java](/Algorithms/java/Java/122.best-time-to-buy-and-sell-stock-ii.java)  | Array , Greedy |
 | 125| Valid Palindrome | Easy | [BestJava](/Algorithms/java/BestJava/125.valid-palindrome.java) , [Java](/Algorithms/java/Java/125.valid-palindrome.java)  | String , Two Pointers |
 | 136| Single Number| Easy | [BestJava](/Algorithms/java/BestJava/136.single-number.java) , [Java](/Algorithms/java/Java/136.single-number.java)  | Hash Table , Bit Manipulation |
 | 141| Linked List Cycle  | Easy |[BestJava](/Algorithms/java/BestJava/141.linked-list-cycle.java) , [Java](/Algorithms/java/Java/141.linked-list-cycle.java) | Linked List , Two Pointers |
-| 155 ❓| Min Stack  | Easy |[BestJava](/Algorithms/java/BestJava/155.min-stack.java)| Stack , Design |
+| 155 | Min Stack  | Easy |[BestJava](/Algorithms/java/BestJava/155.min-stack.java)| Stack , Design |
 | 160 💓 | Intersection of Two Linked Lists| Easy | [BestJava](/Algorithms/java/BestJava/160.intersection-of-two-linked-lists.java) | Linked List |
 | 167| Two Sum II - Input array is sorted | Easy | [BestJava](/Algorithms/java/BestJava/167.two-sum-ii-input-array-is-sorted.java) , [Java](/Algorithms/java/Java/167.two-sum-ii-input-array-is-sorted.java)| Array , Two Pointers , Binary Search |
 | 168| Excel Sheet Column Title | Easy | [BestJava](/Algorithms/java/BestJava/168.excel-sheet-column-title.java)  | Math |
@@ -103,7 +103,7 @@
 | 447 💓 | Number of Boomerangs| Easy |  [BestJava](/Algorithms/java/BestJava/447.number-of-boomerangs.java)  | Hash Table|
 | 448| Find All Numbers Disappeared in an Array| Easy |  [BestJava](/Algorithms/java/BestJava/448.find-all-numbers-disappeared-in-an-array.java) , [Java](/Algorithms/java/Java/448.find-all-numbers-disappeared-in-an-array.java)| Array|
 | 453| Minimum Moves to Equal Array Elements| Easy |  [BestJava](/Algorithms/java/BestJava/453.minimum-moves-to-equal-array-elements.java) , [Java](/Algorithms/java/Java/453.minimum-moves-to-equal-array-elements.java)  | Math|
-| 455| Assign Cookies| Easy |  [BestJava](/Algorithms/java/BestJava/455.assign-cookies.java)  | Greedy|
+| 455| Assign Cookies| Easy |  [BestJava](/Algorithms/java/BestJava/455.assign-cookies.java) , [Java](/Algorithms/java/Java/455.assign-cookies.java)  | Greedy|
 | 461| Hamming Distance| Easy |[BestJava](/Algorithms/java/BestJava/461.hamming-distance.java) | Bit Manipulation |
 | 463| Island Perimeter| Easy |[BestJava](/Algorithms/java/BestJava/463.island-perimeter.java) | Hash Table  |
 | 475| Heaters  | Easy |[BestJava](/Algorithms/java/BestJava/475.heaters.java)| Bit Manipulation |
@@ -176,7 +176,7 @@
 | 832| Flipping an Image  | Easy |[BestJava](/Algorithms/java/BestJava/832.flipping-an-image.java) | Array|
 | 852| Peak Index in a Mountain Array  | Easy |  [BestJava](/Algorithms/java/BestJava/852.peak-index-in-a-mountain-array.java)| Binary Search|
 
-### Database
+## Database
 
 | Squence | Title| Difficulty | Solution |
 | :------ | :----------------------------------------- | :--------: | :--------------------------------------------------------------------: |
@@ -192,4 +192,3 @@
 | 620  | Not Boring Movies| Easy |  [MySQL](/Database/MySQL/620.not-boring-movies.sql)  |
 | 626  | Exchange Seats|Medium|[MySQL](/Database/MySQL/626.exchange-seats.sql)|
 | 627  | Swap Salary | Easy |[MySQL](/Database/MySQL/627.swap-salary.sql) |
-
