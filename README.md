@@ -105,7 +105,7 @@
 | 453| Minimum Moves to Equal Array Elements| Easy |  [BestJava](/Algorithms/java/BestJava/453.minimum-moves-to-equal-array-elements.java) , [Java](/Algorithms/java/Java/453.minimum-moves-to-equal-array-elements.java)  | Math|
 | 455| Assign Cookies| Easy |  [BestJava](/Algorithms/java/BestJava/455.assign-cookies.java) , [Java](/Algorithms/java/Java/455.assign-cookies.java)  | Greedy|
 | 459| Repeated Substring Pattern | Easy |  [Java](/Algorithms/java/Java/459.repeated-substring-pattern.java)  | String|
-| 461| Hamming Distance| Easy |[BestJava](/Algorithms/java/BestJava/461.hamming-distance.java) | Bit Manipulation |
+| 461| Hamming Distance| Easy |[BestJava](/Algorithms/java/BestJava/461.hamming-distance.java) , [Java](/Algorithms/java/Java/461.hamming-distance.java)  | Bit Manipulation |
 | 463| Island Perimeter| Easy |[BestJava](/Algorithms/java/BestJava/463.island-perimeter.java) | Hash Table  |
 | 475| Heaters  | Easy |[BestJava](/Algorithms/java/BestJava/475.heaters.java)| Bit Manipulation |
 | 476| Number Complement  | Easy |[BestJava](/Algorithms/java/BestJava/476.number-complement.java)| Bit Manipulation |
