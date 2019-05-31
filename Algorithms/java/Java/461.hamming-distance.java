@@ -40,7 +40,7 @@
  */
 package Java;
 
-class Solution {
+class Solution461 {
     public int hammingDistance(int x, int y) {
         int z = x ^ y;
         int res = 0;

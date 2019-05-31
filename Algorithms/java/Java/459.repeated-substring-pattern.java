@@ -48,7 +48,7 @@
 
 package Java;
 
-class Solution {
+class Solution459 {
     public boolean repeatedSubstringPattern(String s) {
         int length = s.length();
         for (int i = length / 2; i >= 1; i--) {

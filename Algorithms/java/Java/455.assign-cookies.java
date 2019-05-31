@@ -61,7 +61,7 @@ package Java;
 
 import java.util.Arrays;
 
-class Solution {
+class Solution455 {
     public int findContentChildren(int[] g, int[] s) {
         Arrays.sort(g);
         Arrays.sort(s);

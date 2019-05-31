@@ -107,7 +107,7 @@
 | 459| Repeated Substring Pattern | Easy |  [Java](/Algorithms/java/Java/459.repeated-substring-pattern.java)  | String|
 | 461| Hamming Distance| Easy |[BestJava](/Algorithms/java/BestJava/461.hamming-distance.java) , [Java](/Algorithms/java/Java/461.hamming-distance.java)  | Bit Manipulation |
 | 463| Island Perimeter| Easy |[BestJava](/Algorithms/java/BestJava/463.island-perimeter.java) , [Java](/Algorithms/java/Java/463.island-perimeter.java) | Hash Table  |
-| 475| Heaters  | Easy |[BestJava](/Algorithms/java/BestJava/475.heaters.java)| Bit Manipulation |
+| 475| Heaters  | Easy |[BestJava](/Algorithms/java/BestJava/475.heaters.java) , [Java](/Algorithms/java/Java/475.heaters.java) | Bit Manipulation |
 | 476| Number Complement  | Easy |[BestJava](/Algorithms/java/BestJava/476.number-complement.java)| Bit Manipulation |
 | 485| Max Consecutive Ones| Easy |[BestJava](/Algorithms/java/BestJava/485.max-consecutive-ones.java)| Array|
 | 496 💓 | Next Greater Element I  | Easy |  [BestJava](/Algorithms/java/BestJava/496.next-greater-element-i.java)| Stack|
