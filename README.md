@@ -96,7 +96,7 @@
 | 415 💓  | Add Strings| Easy |[BestJava](/Algorithms/java/BestJava/415.add-strings.java) , [Java](/Algorithms/java/Java/415.add-strings.java)| Math|
 | 429| N-ary Tree Level Order Traversal| Easy |  [BestJava](/Algorithms/java/BestJava/429.n-ary-tree-level-order-traversal.java) , [Java](/Algorithms/java/Java/429.n-ary-tree-level-order-traversal.java)  | Tree , Breadth-first Search |
 | 434| Number of Segments in a String| Easy |  [BestJava](/Algorithms/java/BestJava/434.number-of-segments-in-a-string.java) , [Java](/Algorithms/java/Java/434.number-of-segments-in-a-string.java)  | String |
-| 437 💓  | Path Sum III| Easy |  [BestJava](/Algorithms/java/BestJava/437.path-sum-iii.java) , [Java](/Algorithms/java/Java/437.path-sum-iii.java)| Tree |
+| 437 💓 | Path Sum III| Easy |  [BestJava](/Algorithms/java/BestJava/437.path-sum-iii.java) , [Java](/Algorithms/java/Java/437.path-sum-iii.java)| Tree |
 | 438 💓 | Find All Anagrams in a String| Easy |  [BestJava](/Algorithms/java/BestJava/438.find-all-anagrams-in-a-string.java) , [Java](/Algorithms/java/Java/438.find-all-anagrams-in-a-string.java)| Hash Table |
 | 441| Arranging Coins| Easy |  [BestJava](/Algorithms/java/BestJava/441.arranging-coins.java) , [Java](/Algorithms/java/Java/441.arranging-coins.java)| Math , Binary Search |
 | 443| String Compression| Easy |  [BestJava](/Algorithms/java/BestJava/443.string-compression.java) , [Java](/Algorithms/java/Java/443.string-compression.java)  | String |
@@ -107,7 +107,7 @@
 | 459| Repeated Substring Pattern | Easy |  [Java](/Algorithms/java/Java/459.repeated-substring-pattern.java)  | String|
 | 461| Hamming Distance| Easy |[BestJava](/Algorithms/java/BestJava/461.hamming-distance.java) , [Java](/Algorithms/java/Java/461.hamming-distance.java)  | Bit Manipulation |
 | 463| Island Perimeter| Easy |[BestJava](/Algorithms/java/BestJava/463.island-perimeter.java) , [Java](/Algorithms/java/Java/463.island-perimeter.java) | Hash Table  |
-| 475| Heaters  | Easy |[BestJava](/Algorithms/java/BestJava/475.heaters.java) , [Java](/Algorithms/java/Java/475.heaters.java) | Bit Manipulation |
+| 475 💓 | Heaters  | Easy |[BestJava](/Algorithms/java/BestJava/475.heaters.java) , [Java](/Algorithms/java/Java/475.heaters.java) | Bit Manipulation |
 | 476| Number Complement  | Easy |[BestJava](/Algorithms/java/BestJava/476.number-complement.java)| Bit Manipulation |
 | 485| Max Consecutive Ones| Easy |[BestJava](/Algorithms/java/BestJava/485.max-consecutive-ones.java)| Array|
 | 496 💓 | Next Greater Element I  | Easy |  [BestJava](/Algorithms/java/BestJava/496.next-greater-element-i.java)| Stack|
