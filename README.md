@@ -110,7 +110,7 @@
 | 475 💓 | Heaters  | Easy |[BestJava](/Algorithms/java/BestJava/475.heaters.java) , [Java](/Algorithms/java/Java/475.heaters.java) | Bit Manipulation |
 | 476| Number Complement  | Easy |[BestJava](/Algorithms/java/BestJava/476.number-complement.java) , [Java](/Algorithms/java/Java/476.number-complement.java) | Bit Manipulation |
 | 482 | License Key Formatting |[Java](/Algorithms/java/Java/482.license-key-formatting.java)| |
-| 485| Max Consecutive Ones| Easy |[BestJava](/Algorithms/java/BestJava/485.max-consecutive-ones.java)| Array|
+| 485| Max Consecutive Ones| Easy |[BestJava](/Algorithms/java/BestJava/485.max-consecutive-ones.java) , [Java](/Algorithms/java/Java/485.max-consecutive-ones.java) | Array|
 | 496 💓 | Next Greater Element I  | Easy |  [BestJava](/Algorithms/java/BestJava/496.next-greater-element-i.java)| Stack|
 | 500 💓 | Keyboard Row| Easy | [BestJava](/Algorithms/java/BestJava/500.keyboard-row.java)  | Hash Table  |
 | 501 | Find Mode in Binary Search Tree| Easy | [BestJava](/Algorithms/java/BestJava/501.find-mode-in-binary-search-tree.java)  | Tree  |
