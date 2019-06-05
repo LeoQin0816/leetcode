@@ -112,7 +112,7 @@
 | 482 | License Key Formatting |[Java](/Algorithms/java/Java/482.license-key-formatting.java)| |
 | 485| Max Consecutive Ones| Easy |[BestJava](/Algorithms/java/BestJava/485.max-consecutive-ones.java) , [Java](/Algorithms/java/Java/485.max-consecutive-ones.java) | Array|
 | 492 | Construct the Rectangle |[Java](/Algorithms/java/Java/492.construct-the-rectangle.java) | |
-| 496 💓 | Next Greater Element I  | Easy |  [BestJava](/Algorithms/java/BestJava/496.next-greater-element-i.java)| Stack|
+| 496 💓 | Next Greater Element I  | Easy |  [BestJava](/Algorithms/java/BestJava/496.next-greater-element-i.java) , [Java](/Algorithms/java/Java/496.next-greater-element-i.java) | Stack|
 | 500 💓 | Keyboard Row| Easy | [BestJava](/Algorithms/java/BestJava/500.keyboard-row.java)  | Hash Table  |
 | 501 | Find Mode in Binary Search Tree| Easy | [BestJava](/Algorithms/java/BestJava/501.find-mode-in-binary-search-tree.java)  | Tree  |
 | 507| Perfect Number| Easy | [BestJava](/Algorithms/java/BestJava/507.perfect-number.java)  | Math  |
