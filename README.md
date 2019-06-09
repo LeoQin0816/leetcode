@@ -114,7 +114,8 @@
 | 492 | Construct the Rectangle |[Java](/Java/Algorithms/Java/492.construct-the-rectangle.java) | |
 | 496 💓 | Next Greater Element I  | Easy |  [BestJava](/Java/Algorithms/BestJava/496.next-greater-element-i.java) , [Java](/Java/Algorithms/Java/496.next-greater-element-i.java) | Stack|
 | 500 💓 | Keyboard Row| Easy | [BestJava](/Java/Algorithms/BestJava/500.keyboard-row.java)  | Hash Table  |
-| 501 | Find Mode in Binary Search Tree| Easy | [BestJava](/Java/Algorithms/BestJava/501.find-mode-in-binary-search-tree.java) , [Java](/Java/Algorithms/Java/501.find-mode-in-binary-search-tree.java) | Tree  |
+| 501 | Find Mode in Binary Search Tree | Easy | [BestJava](/Java/Algorithms/BestJava/501.find-mode-in-binary-search-tree.java) , [Java](/Java/Algorithms/Java/501.find-mode-in-binary-search-tree.java) | Tree  |
+| 504 |  Base 7 | Easy | [Java](/Java/Algorithms/Java/504.base-7.java) |   |
 | 507| Perfect Number| Easy | [BestJava](/Java/Algorithms/BestJava/507.perfect-number.java)  | Math  |
 | 509| Fibonacci Number| Easy | [BestJava](/Java/Algorithms/BestJava/509.fibonacci-number.java)  | Array  |
 | 520| Detect Capital  | Easy | [BestJava](/Java/Algorithms/BestJava/520.detect-capital.java) | String|
