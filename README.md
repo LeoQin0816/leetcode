@@ -119,7 +119,7 @@
 | 506 | Relative Ranks ~~~~| Easy | [Java](/Java/Algorithms/Java/506.relative-ranks.java)  |   |
 | 507 | Perfect Number| Easy | [BestJava](/Java/Algorithms/BestJava/507.perfect-number.java) , [Java](/Java/Algorithms/Java/507.perfect-number.java)  | Math  |
 | 509 | Fibonacci Number| Easy | [BestJava](/Java/Algorithms/BestJava/509.fibonacci-number.java) , [Java](/Java/Algorithms/Java/509.fibonacci-number.java)   | Array  |
-| 520 | Detect Capital  | Easy | [BestJava](/Java/Algorithms/BestJava/520.detect-capital.java) | String|
+| 520 | Detect Capital  | Easy | [BestJava](/Java/Algorithms/BestJava/520.detect-capital.java) , [Java](/Java/Algorithms/Java/520.detect-capital.java) | String|
 | 532| K-diff Pairs in an Array| Easy |  [BestJava](/Java/Algorithms/BestJava/532.k-diff-pairs-in-an-array.java)  | Array , Two Pointers  |
 | 538 💓 | Convert BST to Greater Tree | Easy |[BestJava](/Java/Algorithms/BestJava/538.convert-bst-to-greater-tree.java) | Tree |
 | 543 💓 | Diameter of Binary Tree | Easy |  [BestJava](/Java/Algorithms/BestJava/543.diameter-of-binary-tree.java)  | Tree |
