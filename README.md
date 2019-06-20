@@ -122,8 +122,8 @@
 | 520 | Detect Capital  | Easy | [TopVote](/Java/Algorithms/topvote/520.detect-capital.java) , [Session1](/Java/Algorithms/session1/520.detect-capital.java) | String|
 | 521 | Longest Uncommon Subsequence I  | Easy | [Session1](/Java/Algorithms/session1/521.longest-uncommon-subsequence-i.java) | String |
 | 530 | Minimum Absolute Difference in BST  | Easy | [Session1](/Java/Algorithms/session1/530.minimum-absolute-difference-in-bst.java) | Tree |
-| 532| K-diff Pairs in an Array| Easy |  [TopVote](/Java/Algorithms/topvote/532.k-diff-pairs-in-an-array.java)  | Array , Two Pointers  |
-| 538 💓 | Convert BST to Greater Tree | Easy |[TopVote](/Java/Algorithms/topvote/538.convert-bst-to-greater-tree.java) | Tree |
+| 532| K-diff Pairs in an Array| Easy |  [TopVote](/Java/Algorithms/topvote/532.k-diff-pairs-in-an-array.java) , [Session1](/Java/Algorithms/session1/532.k-diff-pairs-in-an-array.java)  | Array , Two Pointers  |
+| 538 💓 | Convert BST to Greater Tree | Easy |[TopVote](/Java/Algorithms/topvote/538.convert-bst-to-greater-tree.java) , [Session1](/Java/Algorithms/session1/538.convert-bst-to-greater-tree.java.java) | Tree |
 | 543 💓 | Diameter of Binary Tree | Easy |  [TopVote](/Java/Algorithms/topvote/543.diameter-of-binary-tree.java)  | Tree |
 | 557| Reverse Words in a String III| Easy |[TopVote](/Java/Algorithms/topvote/557.reverse-words-in-a-string-iii.java)| String|
 | 559| Maximum Depth of N-ary Tree| Easy |[TopVote](/Java/Algorithms/topvote/559.maximum-depth-of-n-ary-tree.java)| Tree , Depth-first Search , Breadth-first Search|
