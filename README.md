@@ -9,7 +9,7 @@
 | 1 | Two Sum | Easy | [TopVote](/Java/Algorithms/topvote/1.two-sum.java) , [Session1](/Java/Algorithms/session1/1.two-sum.java) | Array , Hash Table |
 | 7 | Reverse Integer | Easy | [TopVote](/Java/Algorithms/topvote/7.reverse-integer.java) , [Session1](/Java/Algorithms/session1/7.reverse-integer.java) | Math |
 | 9 | Palindrome Number | Easy | [TopVote](/Java/Algorithms/topvote/9.palindrome-number.java) , [Session1](/Java/Algorithms/session1/9.palindrome-number.java) | Math |
-| 13 | Roman to Integer| Easy | [TopVote](/Java/Algorithms/topvote/13.roman-to-integer.java) | Math , String|
+| 13 | Roman to Integer| Easy | [TopVote](/Java/Algorithms/topvote/13.roman-to-integer.java) | Math , String |
 | 14 | Longest Common Prefix| Easy | [TopVote](/Java/Algorithms/topvote/14.longest-common-prefix.java) , [Session1](/Java/Algorithms/session1/14.longest-common-prefix.java) | String |
 | 20 | Valid Parentheses | Easy | [TopVote](/Java/Algorithms/topvote/20.valid-parentheses.java) , [Session1](/Java/Algorithms/session1/20.valid-parentheses.java) | String , Stack |
 | 21 | Merge Two Sorted Lists | Easy | [TopVote](/Java/Algorithms/topvote/21.merge-two-sorted-lists.java) , [Session1](/Java/Algorithms/session1/21.merge-two-sorted-lists.java) | Linked List |
@@ -17,7 +17,7 @@
 | 27 | Remove Element | Easy | [TopVote](/Java/Algorithms/topvote/27.remove-element.java) , [Session1](/Java/Algorithms/session1/27.remove-element.java) | Array , Two Pointers |
 | 28 | Implement strStr() | Easy | [TopVote](/Java/Algorithms/topvote/28.implement-str-str.java) , [Session1](/Java/Algorithms/session1/28.implement-str-str.java) | String , Two Pointers |
 | 35 | Search Insert Position | Easy | [TopVote](/Java/Algorithms/topvote/35.search-insert-position.java) , [Session1](/Java/Algorithms/session1/35.search-insert-position.java) | Binary Search |
-| 38 | Count and Say | Easy | [TopVote](/Java/Algorithms/topvote/38.count-and-say.java) | String|
+| 38 | Count and Say | Easy | [TopVote](/Java/Algorithms/topvote/38.count-and-say.java) | String |
 | 53 💓 | Maximum Subarray| Easy | [TopVote](/Java/Algorithms/topvote/53.maximum-subarray.java) , [Session1](/Java/Algorithms/session1/53.maximum-subarray.java) | Array , Divide and Conquer , Dynamic Programming |
 | 58 | Length of Last Word| Easy | [TopVote](/Java/Algorithms/topvote/58.length-of-last-word.java) , [Session1](/Java/Algorithms/session1/58.length-of-last-word.java) | String |
 | 66 💓 | Plus One| Easy | [TopVote](/Java/Algorithms/topvote/66.plus-one.java) , [Session1](/Java/Algorithms/session1/66.plus-one.java) | Array , Math |
@@ -49,7 +49,7 @@
 | 169 | Majority Element| Easy | [TopVote](/Java/Algorithms/topvote/169.majority-element.java) , [Session1](/Java/Algorithms/session1/169.majority-element.java) | Array , Bit Manipulation , Divide and Conquer |
 | 171 | Excel Sheet Column Number| Easy | [TopVote](/Java/Algorithms/topvote/171.excel-sheet-column-number.java) | Math |
 | 172 | Factorial Trailing Zeroes| Easy | [TopVote](/Java/Algorithms/topvote/172.factorial-trailing-zeroes.java) , [Session1](/Java/Algorithms/session1/172.factorial-trailing-zeroes.java) | Math |
-| 189 | Rotate Array| Easy | [TopVote](/Java/Algorithms/topvote/189.rotate-array.java) , [Session1](/Java/Algorithms/session1/189.rotate-array.java) | Array |
+| 189 | Rotate Array | Easy | [TopVote](/Java/Algorithms/topvote/189.rotate-array.java) , [Session1](/Java/Algorithms/session1/189.rotate-array.java) | Array |
 | 190 |  Reverse Bits| Easy | [Session1](/Java/Algorithms/session1/190.reverse-bits.java) | Bit Manipulation |
 | 191 |  Number of 1 Bits| Easy | [Session1](/Java/Algorithms/session1/191.number-of-1-bits.java) | Bit Manipulation |
 | 198 💓 | House Robber| Easy | [TopVote](/Java/Algorithms/topvote/198.house-robber.java) , [Session1](/Java/Algorithms/session1/198.house-robber.java) | Dynamic Programming |
@@ -95,13 +95,13 @@
 | 414 | Third Maximum Number| Easy | [TopVote](/Java/Algorithms/topvote/414.third-maximum-number.java) , [Session1](/Java/Algorithms/session1/414.third-maximum-number.java) | Array |
 | 415 💓 | Add Strings| Easy | [TopVote](/Java/Algorithms/topvote/415.add-strings.java) , [Session1](/Java/Algorithms/session1/415.add-strings.java) | Math |
 | 429 | N-ary Tree Level Order Traversal| Easy | [TopVote](/Java/Algorithms/topvote/429.n-ary-tree-level-order-traversal.java) , [Session1](/Java/Algorithms/session1/429.n-ary-tree-level-order-traversal.java) | Tree , Breadth-first Search |
-| 434 | Number of Segments in a String| Easy | [TopVote](/Java/Algorithms/topvote/434.number-of-segments-in-a-string.java) , [Session1](/Java/Algorithms/session1/434.number-of-segments-in-a-string.java) | String |
+| 434 | Number of Segments in a String | Easy | [TopVote](/Java/Algorithms/topvote/434.number-of-segments-in-a-string.java) , [Session1](/Java/Algorithms/session1/434.number-of-segments-in-a-string.java) | String |
 | 437 💓 | Path Sum III| Easy | [TopVote](/Java/Algorithms/topvote/437.path-sum-iii.java) , [Session1](/Java/Algorithms/session1/437.path-sum-iii.java) | Tree |
-| 438 💓 | Find All Anagrams in a String| Easy | [TopVote](/Java/Algorithms/topvote/438.find-all-anagrams-in-a-string.java) , [Session1](/Java/Algorithms/session1/438.find-all-anagrams-in-a-string.java) | Hash Table |
+| 438 💓 | Find All Anagrams in a String | Easy | [TopVote](/Java/Algorithms/topvote/438.find-all-anagrams-in-a-string.java) , [Session1](/Java/Algorithms/session1/438.find-all-anagrams-in-a-string.java) | Hash Table |
 | 441 | Arranging Coins| Easy | [TopVote](/Java/Algorithms/topvote/441.arranging-coins.java) , [Session1](/Java/Algorithms/session1/441.arranging-coins.java) | Math , Binary Search |
 | 443 | String Compression| Easy | [TopVote](/Java/Algorithms/topvote/443.string-compression.java) , [Session1](/Java/Algorithms/session1/443.string-compression.java) | String |
 | 447 💓 | Number of Boomerangs| Easy | [TopVote](/Java/Algorithms/topvote/447.number-of-boomerangs.java) | Hash Table |
-| 448 | Find All Numbers Disappeared in an Array| Easy | [TopVote](/Java/Algorithms/topvote/448.find-all-numbers-disappeared-in-an-array.java) , [Session1](/Java/Algorithms/session1/448.find-all-numbers-disappeared-in-an-array.java) | Array |
+| 448 | Find All Numbers Disappeared in an Array | Easy | [TopVote](/Java/Algorithms/topvote/448.find-all-numbers-disappeared-in-an-array.java) , [Session1](/Java/Algorithms/session1/448.find-all-numbers-disappeared-in-an-array.java) | Array |
 | 453 | Minimum Moves to Equal Array Elements| Easy | [TopVote](/Java/Algorithms/topvote/453.minimum-moves-to-equal-array-elements.java) , [Session1](/Java/Algorithms/session1/453.minimum-moves-to-equal-array-elements.java) | Math |
 | 455 | Assign Cookies| Easy | [TopVote](/Java/Algorithms/topvote/455.assign-cookies.java) , [Session1](/Java/Algorithms/session1/455.assign-cookies.java) | Greedy |
 | 459 | Repeated Substring Pattern | Easy |  [Session1](/Java/Algorithms/session1/459.repeated-substring-pattern.java) | String |
@@ -122,9 +122,9 @@
 | 520 | Detect Capital | Easy | [TopVote](/Java/Algorithms/topvote/520.detect-capital.java) , [Session1](/Java/Algorithms/session1/520.detect-capital.java) | String |
 | 521 | Longest Uncommon Subsequence I | Easy | [Session1](/Java/Algorithms/session1/521.longest-uncommon-subsequence-i.java) | String |
 | 530 | Minimum Absolute Difference in BST | Easy | [Session1](/Java/Algorithms/session1/530.minimum-absolute-difference-in-bst.java) | Tree |
-| 532| K-diff Pairs in an Array| Easy | [TopVote](/Java/Algorithms/topvote/532.k-diff-pairs-in-an-array.java) , [Session1](/Java/Algorithms/session1/532.k-diff-pairs-in-an-array.java) | Array , Two Pointers |
-| 538 💓 | Convert BST to Greater Tree | Easy | [TopVote](/Java/Algorithms/topvote/538.convert-bst-to-greater-tree.java) , [Session1](/Java/Algorithms/session1/538.convert-bst-to-greater-tree.java.java) | Tree |
-| 543 💓 | Diameter of Binary Tree | Easy | [TopVote](/Java/Algorithms/topvote/543.diameter-of-binary-tree.java) | Tree |
+| 532| K-diff Pairs in an Array | Easy | [TopVote](/Java/Algorithms/topvote/532.k-diff-pairs-in-an-array.java) , [Session1](/Java/Algorithms/session1/532.k-diff-pairs-in-an-array.java) | Array , Two Pointers |
+| 538 💓 | Convert BST to Greater Tree | Easy | [TopVote](/Java/Algorithms/topvote/538.convert-bst-to-greater-tree.java) , [Session1](/Java/Algorithms/session1/538.convert-bst-to-greater-tree.java) | Tree |
+| 543 💓 | Diameter of Binary Tree | Easy | [TopVote](/Java/Algorithms/topvote/543.diameter-of-binary-tree.java) , [Session1](/Java/Algorithms/session1/543.diameter-of-binary-tree.java) | Tree |
 | 557 | Reverse Words in a String III| Easy | [TopVote](/Java/Algorithms/topvote/557.reverse-words-in-a-string-iii.java) | String |
 | 559 | Maximum Depth of N-ary Tree| Easy | [TopVote](/Java/Algorithms/topvote/559.maximum-depth-of-n-ary-tree.java) | Tree , Depth-first Search , Breadth-first Search |
 | 561 | Array Partition I | Easy | [TopVote](/Java/Algorithms/topvote/561.array-partition-i.java) | Array |
@@ -136,52 +136,52 @@
 | 589| N-ary Tree Preorder Traversal | Easy | [TopVote](/Java/Algorithms/topvote/589.n-ary-tree-preorder-traversal.java) | Tree |
 | 590| N-ary Tree Preorder Traversal | Easy | [TopVote](/Java/Algorithms/topvote/590.n-ary-tree-postorder-traversal.java) | Tree |
 | 594| Longest Harmonious Subsequence | Easy | [TopVote](/Java/Algorithms/topvote/594.longest-harmonious-subsequence.java) | Hash Table |
-| 598| Range Addition II | Easy | [TopVote](/Java/Algorithms/topvote/598.range-addition-ii.java) | Math|
-| 599| Minimum Index Sum of Two Lists | Easy | [TopVote](/Java/Algorithms/topvote/599.minimum-index-sum-of-two-lists.java) | Hash Table|
-| 605| Can Place Flowers | Easy | [TopVote](/Java/Algorithms/topvote/605.can-place-flowers.java) | Array|
+| 598| Range Addition II | Easy | [TopVote](/Java/Algorithms/topvote/598.range-addition-ii.java) | Math |
+| 599| Minimum Index Sum of Two Lists | Easy | [TopVote](/Java/Algorithms/topvote/599.minimum-index-sum-of-two-lists.java) | Hash Table |
+| 605| Can Place Flowers | Easy | [TopVote](/Java/Algorithms/topvote/605.can-place-flowers.java) | Array |
 | 617 💓 | Merge Two Binary Trees | Easy | [TopVote](/Java/Algorithms/topvote/617.merge-two-binary-trees.java) | Tree |
-| 628| Maximum Product of Three Numbers| Easy | [TopVote](/Java/Algorithms/topvote/628.maximum-product-of-three-numbers.java) | Array|
+| 628| Maximum Product of Three Numbers| Easy | [TopVote](/Java/Algorithms/topvote/628.maximum-product-of-three-numbers.java) | Array |
 | 633| Sum of Square Numbers| Easy | [TopVote](/Java/Algorithms/topvote/633.sum-of-square-numbers.java) | Math |
 | 637| Average of Levels in Binary Tree| Easy | [TopVote](/Java/Algorithms/topvote/637.average-of-levels-in-binary-tree.java) | Tree |
-| 643| Maximum Average Subarray I | Easy | [TopVote](/Java/Algorithms/topvote/643.maximum-average-subarray-i.java) | Array|
-| 645| Set Mismatch | Easy | [TopVote](/Java/Algorithms/topvote/645.set-mismatch.java) | Hash Table|
-| 657| Judge Route Circle | Easy | [TopVote](/Java/Algorithms/topvote/657.robot-return-to-origin.java) | String|
-| 661| Image Smoother | Easy | [TopVote](/Java/Algorithms/topvote/661.image-smoother.java) | Array|
-| 665 💓 | Non-decreasing Array| Easy | [TopVote](/Java/Algorithms/topvote/665.non-decreasing-array.java) | Array|
+| 643| Maximum Average Subarray I | Easy | [TopVote](/Java/Algorithms/topvote/643.maximum-average-subarray-i.java) | Array |
+| 645| Set Mismatch | Easy | [TopVote](/Java/Algorithms/topvote/645.set-mismatch.java) | Hash Table |
+| 657| Judge Route Circle | Easy | [TopVote](/Java/Algorithms/topvote/657.robot-return-to-origin.java) | String |
+| 661| Image Smoother | Easy | [TopVote](/Java/Algorithms/topvote/661.image-smoother.java) | Array |
+| 665 💓 | Non-decreasing Array | Easy | [TopVote](/Java/Algorithms/topvote/665.non-decreasing-array.java) | Array |
 | 669| Trim a Binary Search Tree | Easy | [TopVote](/Java/Algorithms/topvote/669.trim-a-binary-search-tree.java) | Tree |
-| 674| Longest Continuous Increasing Subsequence | Easy | [TopVote](/Java/Algorithms/topvote/674.longest-continuous-increasing-subsequence.java) | Array|
-| 682| Baseball Game| Easy | [TopVote](/Java/Algorithms/topvote/682.baseball-game.java) | Stack|
+| 674| Longest Continuous Increasing Subsequence | Easy | [TopVote](/Java/Algorithms/topvote/674.longest-continuous-increasing-subsequence.java) | Array |
+| 682| Baseball Game| Easy | [TopVote](/Java/Algorithms/topvote/682.baseball-game.java) | Stack |
 | 690 💓 | Employee Importance | Easy | [TopVote](/Java/Algorithms/topvote/690.employee-importance.java) | Hash Table , Breadth-first Search , Depth-first Search |
 | 693| Binary Number with Alternating Bits | Easy | [TopVote](/Java/Algorithms/topvote/693.binary-number-with-alternating-bits.java) | Bit Manipulation |
 | 695 💓 | Max Area of Island | Easy | [TopVote](/Java/Algorithms/topvote/695.max-area-of-island.java) | Array , Depth-first Search |
-| 696 💓 | Count Binary Substrings | Easy | [TopVote](/Java/Algorithms/topvote/696.count-binary-substrings.java) | String|
-| 697 💓 | Degree of an Array | Easy | [TopVote](/Java/Algorithms/topvote/697.degree-of-an-array.java) | Array|
-| 704| Binary Search| Easy | [TopVote](/Java/Algorithms/topvote/704.binary-search.java) | Binary Search|
-| 705| Design HashSet| Easy | [TopVote](/Java/Algorithms/topvote/705.design-hash-set.java) | Hash Table , Design|
-| 706| Design HashMap| Easy | [TopVote](/Java/Algorithms/topvote/706.design-hash-map.java) | Hash Table , Design|
-| 709| To Lower Case| Easy | [TopVote](/Java/Algorithms/topvote/709.to-lower-case.java) | String|
-| 717| 1-bit and 2-bit Characters | Easy | [TopVote](/Java/Algorithms/topvote/717.1-bit-and-2-bit-characters.java) | Array|
+| 696 💓 | Count Binary Substrings | Easy | [TopVote](/Java/Algorithms/topvote/696.count-binary-substrings.java) | String |
+| 697 💓 | Degree of an Array | Easy | [TopVote](/Java/Algorithms/topvote/697.degree-of-an-array.java) | Array |
+| 704| Binary Search | Easy | [TopVote](/Java/Algorithms/topvote/704.binary-search.java) | Binary Search |
+| 705| Design HashSet| Easy | [TopVote](/Java/Algorithms/topvote/705.design-hash-set.java) | Hash Table , Design |
+| 706| Design HashMap| Easy | [TopVote](/Java/Algorithms/topvote/706.design-hash-map.java) | Hash Table , Design |
+| 709| To Lower Case| Easy | [TopVote](/Java/Algorithms/topvote/709.to-lower-case.java) | String |
+| 717| 1-bit and 2-bit Characters | Easy | [TopVote](/Java/Algorithms/topvote/717.1-bit-and-2-bit-characters.java) | Array |
 | 720| Longest Word in Dictionary| Easy | [TopVote](/Java/Algorithms/topvote/720.longest-word-in-dictionary.java) | Hash Table , Trie|
-| 724| Find Pivot Index| Easy | [TopVote](/Java/Algorithms/topvote/724.find-pivot-index.java) | Array|
+| 724| Find Pivot Index| Easy | [TopVote](/Java/Algorithms/topvote/724.find-pivot-index.java) | Array |
 | 728 💓 | Self Dividing Numbers| Easy | [TopVote](/Java/Algorithms/topvote/728.self-dividing-numbers.java) | Math |
-| 744| Find Smallest Letter Greater Than Target| Easy | [TopVote](/Java/Algorithms/topvote/744.find-smallest-letter-greater-than-target.java) | Binary Search|
+| 744| Find Smallest Letter Greater Than Target| Easy | [TopVote](/Java/Algorithms/topvote/744.find-smallest-letter-greater-than-target.java) | Binary Search |
 | 746| Min Cost Climbing Stairs| Easy | [TopVote](/Java/Algorithms/topvote/746.min-cost-climbing-stairs.java) | Array , Dynamic Programming|
-| 747| Largest Number At Least Twice of Others | Easy | [TopVote](/Java/Algorithms/topvote/747.largest-number-at-least-twice-of-others.java) | Array|
+| 747| Largest Number At Least Twice of Others | Easy | [TopVote](/Java/Algorithms/topvote/747.largest-number-at-least-twice-of-others.java) | Array |
 | 748 | Shortest Completing Word| Easy | [TopVote](/Java/Algorithms/topvote/748.shortest-completing-word.java) | Hash Table |
-| 754| Reach a Number | Easy | [TopVote](/Java/Algorithms/topvote/754.reach-a-number.java) | Math|
+| 754| Reach a Number | Easy | [TopVote](/Java/Algorithms/topvote/754.reach-a-number.java) | Math |
 | 762 💓 | Prime Number of Set Bits in Binary Representation | Easy | [TopVote](/Java/Algorithms/topvote/762.prime-number-of-set-bits-in-binary-representation.java) | Bit Manipulation |
-| 766| Toeplitz Matrix | Easy | [TopVote](/Java/Algorithms/topvote/766.toeplitz-matrix.java) | Array|
+| 766| Toeplitz Matrix | Easy | [TopVote](/Java/Algorithms/topvote/766.toeplitz-matrix.java) | Array |
 | 771| Jewels and Stones | Easy | [TopVote](/Java/Algorithms/topvote/771.jewels-and-stones.java) | Hash Table |
 | 784 💓 | Letter Case Permutation | Easy | [TopVote](/Java/Algorithms/topvote/784.letter-case-permutation.java) | Bit Manipulation , Backtracking|
-| 804| Unique Morse Code Words | Easy | [TopVote](/Java/Algorithms/topvote/804.unique-morse-code-words.java) | String|
+| 804| Unique Morse Code Words | Easy | [TopVote](/Java/Algorithms/topvote/804.unique-morse-code-words.java) | String |
 | 806| Number of Lines To Write String | Easy | [TopVote](/Java/Algorithms/topvote/806.number-of-lines-to-write-string.java) |
 | 811| Subdomain Visit Count| Easy | [TopVote](/Java/Algorithms/topvote/811.subdomain-visit-count.java) | Hash Table |
 | 812| Largest Triangle Area| Easy | [TopVote](/Java/Algorithms/topvote/812.largest-triangle-area.java) | Math |
 | 821| Shortest Distance to a Character| Easy | [TopVote](/Java/Algorithms/topvote/821.shortest-distance-to-a-character.java) |
-| 824| Goat Latin | Easy | [TopVote](/Java/Algorithms/topvote/824.goat-latin.java) | String|
-| 830| Positions of Large Groups | Easy | [TopVote](/Java/Algorithms/topvote/830.positions-of-large-groups.java) | Array|
-| 832| Flipping an Image | Easy | [TopVote](/Java/Algorithms/topvote/832.flipping-an-image.java) | Array|
-| 852| Peak Index in a Mountain Array | Easy | [TopVote](/Java/Algorithms/topvote/852.peak-index-in-a-mountain-array.java) | Binary Search|
+| 824| Goat Latin | Easy | [TopVote](/Java/Algorithms/topvote/824.goat-latin.java) | String |
+| 830| Positions of Large Groups | Easy | [TopVote](/Java/Algorithms/topvote/830.positions-of-large-groups.java) | Array |
+| 832| Flipping an Image | Easy | [TopVote](/Java/Algorithms/topvote/832.flipping-an-image.java) | Array |
+| 852| Peak Index in a Mountain Array | Easy | [TopVote](/Java/Algorithms/topvote/852.peak-index-in-a-mountain-array.java) | Binary Search |
 
 ## Database
 
