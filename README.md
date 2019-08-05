@@ -125,7 +125,8 @@
 | 532| K-diff Pairs in an Array | Easy | [TopVote](/Java/Algorithms/topvote/532.k-diff-pairs-in-an-array.java) , [Session1](/Java/Algorithms/session1/532.k-diff-pairs-in-an-array.java) | Array , Two Pointers |
 | 538 💓 | Convert BST to Greater Tree | Easy | [TopVote](/Java/Algorithms/topvote/538.convert-bst-to-greater-tree.java) , [Session1](/Java/Algorithms/session1/538.convert-bst-to-greater-tree.java) | Tree |
 | 543 💓 | Diameter of Binary Tree | Easy | [TopVote](/Java/Algorithms/topvote/543.diameter-of-binary-tree.java) , [Session1](/Java/Algorithms/session1/543.diameter-of-binary-tree.java) | Tree |
-| 557 | Reverse Words in a String III| Easy | [TopVote](/Java/Algorithms/topvote/557.reverse-words-in-a-string-iii.java) | String |
+| 551 | Student Attendance Record I | Easy | [Session1](/Java/Algorithms/session1/551.student-attendance-record-i.java) | String |
+| 557 | Reverse Words in a String III | Easy | [TopVote](/Java/Algorithms/topvote/557.reverse-words-in-a-string-iii.java) | String |
 | 559 | Maximum Depth of N-ary Tree| Easy | [TopVote](/Java/Algorithms/topvote/559.maximum-depth-of-n-ary-tree.java) | Tree , Depth-first Search , Breadth-first Search |
 | 561 | Array Partition I | Easy | [TopVote](/Java/Algorithms/topvote/561.array-partition-i.java) | Array |
 | 563 | Binary Tree Tilt | Easy | [TopVote](/Java/Algorithms/topvote/563.binary-tree-tilt.java) | Tree |
