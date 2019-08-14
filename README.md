@@ -132,7 +132,7 @@
 | 563 | Binary Tree Tilt | Easy | [TopVote](/Java/Algorithms/topvote/563.binary-tree-tilt.java) , [Session1](/Java/Algorithms/session1/563.binary-tree-tilt.java) | Tree |
 | 566| Reshape the Matrix | Easy | [TopVote](/Java/Algorithms/topvote/566.reshape-the-matrix.java) , [Session1](/Java/Algorithms/session1/566.reshape-the-matrix.java) | Array |
 | 572| Subtree of Another Tree | Easy | [TopVote](/Java/Algorithms/topvote/572.subtree-of-another-tree.java) , [Session1](/Java/Algorithms/session1/572.subtree-of-another-tree.java) | Tree |
-| 575| Distribute Candies | Easy | [TopVote](/Java/Algorithms/topvote/575.distribute-candies.java) | Hash Table |
+| 575| Distribute Candies | Easy | [TopVote](/Java/Algorithms/topvote/575.distribute-candies.java) , [Session1](/Java/Algorithms/session1/575.distribute-candies.java) | Hash Table |
 | 581 💓 | Shortest Unsorted Continuous Subarray| Easy | [TopVote](/Java/Algorithms/topvote/581.shortest-unsorted-continuous-subarray.java) | |
 | 589| N-ary Tree Preorder Traversal | Easy | [TopVote](/Java/Algorithms/topvote/589.n-ary-tree-preorder-traversal.java) | Tree |
 | 590| N-ary Tree Postorder Traversal | Easy | [TopVote](/Java/Algorithms/topvote/590.n-ary-tree-postorder-traversal.java) | Tree |
