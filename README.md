@@ -134,7 +134,7 @@
 | 572| Subtree of Another Tree | Easy | [TopVote](/Java/Algorithms/topvote/572.subtree-of-another-tree.java) , [Session1](/Java/Algorithms/session1/572.subtree-of-another-tree.java) | Tree |
 | 575| Distribute Candies | Easy | [TopVote](/Java/Algorithms/topvote/575.distribute-candies.java) , [Session1](/Java/Algorithms/session1/575.distribute-candies.java) | Hash Table |
 | 581 💓 | Shortest Unsorted Continuous Subarray| Easy | [TopVote](/Java/Algorithms/topvote/581.shortest-unsorted-continuous-subarray.java) , [Session1](/Java/Algorithms/session1/581.shortest-unsorted-continuous-subarray.java) | |
-| 589| N-ary Tree Preorder Traversal | Easy | [TopVote](/Java/Algorithms/topvote/589.n-ary-tree-preorder-traversal.java) | Tree |
+| 589| N-ary Tree Preorder Traversal | Easy | [TopVote](/Java/Algorithms/topvote/589.n-ary-tree-preorder-traversal.java) , [Session1](/Java/Algorithms/session1/589.n-ary-tree-preorder-traversal.java) | Tree |
 | 590| N-ary Tree Postorder Traversal | Easy | [TopVote](/Java/Algorithms/topvote/590.n-ary-tree-postorder-traversal.java) | Tree |
 | 594| Longest Harmonious Subsequence | Easy | [TopVote](/Java/Algorithms/topvote/594.longest-harmonious-subsequence.java) | Hash Table |
 | 598| Range Addition II | Easy | [TopVote](/Java/Algorithms/topvote/598.range-addition-ii.java) | Math |
