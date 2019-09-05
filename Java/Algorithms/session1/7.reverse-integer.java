@@ -6,11 +6,11 @@
  * https://leetcode.com/problems/reverse-integer/description/
  *
  * algorithms
- * Easy (25.29%)
- * Likes:    2153
- * Dislikes: 3263
- * Total Accepted:    689.7K
- * Total Submissions: 2.7M
+ * Easy (25.44%)
+ * Likes:    2405
+ * Dislikes: 3709
+ * Total Accepted:    787K
+ * Total Submissions: 3.1M
  * Testcase Example:  '123'
  *
  * Given a 32-bit signed integer, reverse digits of an integer.
@@ -47,19 +47,21 @@ package session1;
 
 class Solution7 {
     public int reverse(int x) {
-        Long num = Math.abs((long) x);
-        String res = new StringBuffer(String.valueOf(num)).reverse().toString();
-        if (Long.parseLong(res) > Integer.MAX_VALUE) {
-            return 0;
+        int res = 0;
+        while (x != 0) {
+            int tail = x % 10;
+            int newRes = res * 10 + tail;
+            if ((newRes - tail) / 10 != res) {
+                return 0;
+            }
+            res = newRes;
+            x /= 10;
         }
-        return x > 0 ? Integer.parseInt(res) : Integer.parseInt(res) * -1;
+        return res;
     }
 
     public static void main(String[] args) {
-        System.out.println(new Solution7().reverse(123));
-        System.out.println(new Solution7().reverse(-123));
-        System.out.println(new Solution7().reverse(120));
-        System.out.println(new Solution7().reverse(-2147483648));
+        System.out.println(new Solution7().reverse(1012));
+        System.out.println(new Solution7().reverse(1534236469));
     }
 }
-

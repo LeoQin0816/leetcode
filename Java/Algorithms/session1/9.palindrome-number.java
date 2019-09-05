@@ -6,11 +6,11 @@
  * https://leetcode.com/problems/palindrome-number/description/
  *
  * algorithms
- * Easy (43.27%)
- * Likes:    1403
- * Dislikes: 1292
- * Total Accepted:    578.5K
- * Total Submissions: 1.3M
+ * Easy (44.36%)
+ * Likes:    1602
+ * Dislikes: 1367
+ * Total Accepted:    663.8K
+ * Total Submissions: 1.5M
  * Testcase Example:  '121'
  *
  * Determine whether an integer is a palindrome. An integer is a palindrome
@@ -46,30 +46,9 @@
  * Coud you solve it without converting the integer to a string?
  * 
  */
-package session1;
-class Solution9 {
+class Solution {
     public boolean isPalindrome(int x) {
-        if (x < 0) {
-            return false;
-        }
-        char[] charArray = String.valueOf(x).toCharArray();
-        int start = 0;
-        int end = charArray.length - 1;
-        while (start < end) {
-            if (charArray[start] == charArray[end]) {
-                start++;
-                end--;
-            } else {
-                return false;
-            }
-        }
-        return true;
-    }
-
-    public static void main(String[] args) {
-        System.out.println(new Solution9().isPalindrome(121));
-        System.out.println(new Solution9().isPalindrome(-121));
-        System.out.println(new Solution9().isPalindrome(10));
+        
     }
 }
 

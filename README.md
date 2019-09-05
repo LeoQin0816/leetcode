@@ -6,7 +6,7 @@
 
 | Sequence | Title | Difficulty | Solution | Topic |
 | :- | :- | :-: | :-: | :- |
-| 1 | Two Sum | Easy | [JavaTopVote](/Java/Algorithms/topvote/1.two-sum.java) , [JavaSession1](/Java/Algorithms/session1/1.two-sum.java) , [PythonSession1](/Python/Algorithms/session1/1.two-sum.py) | Array , Hash Table |
+| 1 | Two Sum | Easy | [JavaTopVote](/Java/Algorithms/topvote/1.two-sum.java) , [JavaSession1](/Java/Algorithms/session1/1.two-sum.java) | Array , Hash Table |
 | 7 | Reverse Integer | Easy | [JavaTopVote](/Java/Algorithms/topvote/7.reverse-integer.java) , [JavaSession1](/Java/Algorithms/session1/7.reverse-integer.java) | Math |
 | 9 | Palindrome Number | Easy | [JavaTopVote](/Java/Algorithms/topvote/9.palindrome-number.java) , [JavaSession1](/Java/Algorithms/session1/9.palindrome-number.java) | Math |
 | 13 | Roman to Integer| Easy | [JavaTopVote](/Java/Algorithms/topvote/13.roman-to-integer.java) | Math , String |
