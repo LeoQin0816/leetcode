@@ -66,9 +66,16 @@
  * }
  * 
  */
-class Solution {
+
+package session1;
+
+class Solution27 {
     public int removeElement(int[] nums, int val) {
-        
+        int index = 0;
+        for (int n : nums) {
+            if (n != val)
+                nums[index++] = n;
+        }
+        return index;
     }
 }
-
