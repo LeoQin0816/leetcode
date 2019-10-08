@@ -17,6 +17,7 @@
 | 27 | Remove Element | Easy | [JavaTopVote](/Java/Algorithms/topvote/27.remove-element.java) , [JavaSession1](/Java/Algorithms/session1/27.remove-element.java) | Array , Two Pointers |
 | 28 | Implement strStr() | Easy | [JavaTopVote](/Java/Algorithms/topvote/28.implement-str-str.java) , [JavaSession1](/Java/Algorithms/session1/28.implement-str-str.java) | String , Two Pointers |
 | 31 | Next Permutation | Medium | [JavaSession1](/Java/Algorithms/session1/31.next-permutation.java) | Array |
+| 33 | Search in Rotated Sorted Array| Medium | [JavaSession1](/Java/Algorithms/session1/33.search-in-rotated-sorted-array.java) | Array , Binary Search |
 | 35 | Search Insert Position | Easy | [JavaTopVote](/Java/Algorithms/topvote/35.search-insert-position.java) , [JavaSession1](/Java/Algorithms/session1/35.search-insert-position.java) | Binary Search |
 | 38 | Count and Say | Easy | [JavaTopVote](/Java/Algorithms/topvote/38.count-and-say.java) | String |
 | 53 💓 | Maximum Subarray| Easy | [JavaTopVote](/Java/Algorithms/topvote/53.maximum-subarray.java) , [JavaSession1](/Java/Algorithms/session1/53.maximum-subarray.java) | Array , Divide and Conquer , Dynamic Programming |
