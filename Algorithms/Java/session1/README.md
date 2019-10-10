@@ -17,3 +17,4 @@
 | 33 | Search in Rotated Sorted Array | Medium | [JavaSession1](33.search-in-rotated-sorted-array.java) | Array , Binary Search |
 | 34 | 在排序数组中查找元素的第一个和最后一个位置 | Medium | [JavaSession1](34.在排序数组中查找元素的第一个和最后一个位置.java) | 数组 , 二分查找 |
 | 35 | 搜索插入位置 | Easy | [JavaSession1](35.搜索插入位置.java) | 数组 , 二分查找 |
+| 39 | 组合总和 | Medium | [JavaSession1](39.组合总和.java) | 数组 , 回溯算法 |
