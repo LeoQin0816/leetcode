@@ -18,3 +18,4 @@
 | 34 | 在排序数组中查找元素的第一个和最后一个位置 | Medium | [JavaSession1](34.在排序数组中查找元素的第一个和最后一个位置.java) | 数组 , 二分查找 |
 | 35 | 搜索插入位置 | Easy | [JavaSession1](35.搜索插入位置.java) | 数组 , 二分查找 |
 | 39 | 组合总和 | Medium | [JavaSession1](39.组合总和.java) | 数组 , 回溯算法 |
+| 40 | 组合总和-ii | Medium | [JavaSession1](40.组合总和-ii.java) | 数组 , 回溯算法 |
