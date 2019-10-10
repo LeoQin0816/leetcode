@@ -1,9 +1,0 @@
-.idea/
-*output/
-*/__pycache__
-*.iml
-.vscode/
-*production/
-Golang/
-Python/
-.gitignore
