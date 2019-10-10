@@ -4,7 +4,7 @@
 
 | Language | Solution |
 | :- | :- |
-| Java | [JavaTopVote](/Java/Algorithms/topvote/) , [JavaSession](/Java/Algorithms/session/) |
+| Java | [JavaTopVote](/Java/Algorithms/topvote/) , [JavaSession](/Java/Algorithms/session1/) |
 
 ## Database
 

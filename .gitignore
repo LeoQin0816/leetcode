@@ -6,3 +6,4 @@
 *production/
 Golang/
 Python/
+.gitignore

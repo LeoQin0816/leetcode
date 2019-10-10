@@ -15,4 +15,4 @@
 | 28 | Implement strStr() | Easy | [JavaSession1](/Java/Algorithms/session1/28.implement-str-str.java) | String , Two Pointers |
 | 31 | Next Permutation | Medium | [JavaSession1](/Java/Algorithms/session1/31.next-permutation.java) | Array |
 | 33 | Search in Rotated Sorted Array | Medium | [JavaSession1](/Java/Algorithms/session1/33.search-in-rotated-sorted-array.java) | Array , Binary Search |
-| 34 | 在排序数组中查找元素的第一个和最后一个位置 | Medium | [JavaSession1](/Java/Algorithms/session1/34.在排序数组中查找元素的第一个和最后一个位置.java) | 数组 , 二分法 |
+| 34 | 在排序数组中查找元素的第一个和最后一个位置 | Medium | [JavaSession1](/Java/Algorithms/session1/34.在排序数组中查找元素的第一个和最后一个位置.java) | 数组 , 二分查找 |
