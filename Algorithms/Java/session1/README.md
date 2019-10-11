@@ -15,8 +15,9 @@
 | 28 | Implement strStr() | Easy | [JavaSession1](28.implement-str-str.java) | String , Two Pointers |
 | 31 | Next Permutation | Medium | [JavaSession1](31.next-permutation.java) | Array |
 | 33 | Search in Rotated Sorted Array | Medium | [JavaSession1](33.search-in-rotated-sorted-array.java) | Array , Binary Search |
-| 34 | 在排序数组中查找元素的第一个和最后一个位置 | Medium | [JavaSession1](34.在排序数组中查找元素的第一个和最后一个位置.java) | 数组 , 二分查找 |
-| 35 | 搜索插入位置 | Easy | [JavaSession1](35.搜索插入位置.java) | 数组 , 二分查找 |
-| 39 | 组合总和 | Medium | [JavaSession1](39.组合总和.java) | 数组 , 回溯算法 |
-| 40 | 组合总和-ii | Medium | [JavaSession1](40.组合总和-ii.java) | 数组 , 回溯算法 |
-| 48 | 旋转图像 | Medium | [JavaSession1](48.旋转图像.java) | 数组 |
+| 34 | 在排序数组中查找元素的第一个和最后一个位置 | 中等 | [JavaSession1](34.在排序数组中查找元素的第一个和最后一个位置.java) | 数组 , 二分查找 |
+| 35 | 搜索插入位置 | 简单 | [JavaSession1](35.搜索插入位置.java) | 数组 , 二分查找 |
+| 39 | 组合总和 | 中等 | [JavaSession1](39.组合总和.java) | 数组 , 回溯算法 |
+| 40 | 组合总和-ii | 中等 | [JavaSession1](40.组合总和-ii.java) | 数组 , 回溯算法 |
+| 48 | 旋转图像 | 中等 | [JavaSession1](48.旋转图像.java) | 数组 |
+| 53 | 最大子序和 | 简单 | [JavaSession1](53.最大子序和.java) | 数组 , 分治算法 , 动态规划 |
