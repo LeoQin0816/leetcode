@@ -21,4 +21,5 @@
 | 40 | 组合总和-ii | 中等 | [JavaSession1](40.组合总和-ii.java) | 数组 , 回溯算法 |
 | 48 | 旋转图像 | 中等 | [JavaSession1](48.旋转图像.java) | 数组 |
 | 53 | 最大子序和 | 简单 | [JavaSession1](53.最大子序和.java) | 数组 , 分治算法 , 动态规划 |
-| 55 | 螺旋矩阵 | 中等 | [JavaSession1](54.螺旋矩阵.java) | 数组 |
+| 54 | 螺旋矩阵 | 中等 | [JavaSession1](54.螺旋矩阵.java) | 数组 |
+| 55 | 跳跃游戏 | 中等 | [JavaSession1](55.跳跃游戏.java) | 数组 , 贪心算法 |
