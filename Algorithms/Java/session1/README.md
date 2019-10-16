@@ -26,3 +26,4 @@
 | 56 | 合并区间 | 中等 | [JavaSession1](56.合并区间.java) | 数组 , 排序 |
 | 59 | 螺旋矩阵 II | 中等 | [JavaSession1](59.螺旋矩阵-ii.java) | 数组 |
 | 62 | 不同路径 | 中等 | [JavaSession1](62.不同路径.java) | 数组 , 动态规划 |
+| 63 | 不同路径 II | 中等 | [JavaSession1](63.不同路径-ii.java) | 数组 , 动态规划 |
