@@ -27,3 +27,4 @@
 | 59 | 螺旋矩阵 II | 中等 | [JavaSession1](59.螺旋矩阵-ii.java) | 数组 |
 | 62 | 不同路径 | 中等 | [JavaSession1](62.不同路径.java) | 数组 , 动态规划 |
 | 63 | 不同路径 II | 中等 | [JavaSession1](63.不同路径-ii.java) | 数组 , 动态规划 |
+| 64 | 最小路径和 | 中等 | [JavaSession1](64.最小路径和.java) | 数组 , 动态规划 |
