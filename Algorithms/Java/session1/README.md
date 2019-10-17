@@ -28,3 +28,4 @@
 | 62 | 不同路径 | 中等 | [JavaSession1](62.不同路径.java) | 数组 , 动态规划 |
 | 63 | 不同路径 II | 中等 | [JavaSession1](63.不同路径-ii.java) | 数组 , 动态规划 |
 | 64 | 最小路径和 | 中等 | [JavaSession1](64.最小路径和.java) | 数组 , 动态规划 |
+| 66 | 加一 | 简单 | [JavaSession1](66.加一.java) | 数组 |
