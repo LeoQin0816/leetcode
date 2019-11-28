@@ -21,7 +21,8 @@
 | 35 | 搜索插入位置 | 简单 | [JavaSession1](35.搜索插入位置.java) | 数组 , 二分查找 |
 | 39 | 组合总和 | 中等 | [JavaSession1](39.组合总和.java) | 数组 , 回溯算法 |
 | 40 | 组合总和 II | 中等 | [JavaSession1](40.组合总和-ii.java) | 数组 , 回溯算法 |
-| 43 | 全排列 | 中等 | [JavaSession1](43.全排列.java) | 回溯算法 |
+| 46 | 全排列 | 中等 | [JavaSession1](46.全排列.java) | 回溯算法 |
+| 47 | 全排列 II | 中等 | [JavaSession1](47.全排列-ii.java) | 回溯算法 |
 | 48 | 旋转图像 | 中等 | [JavaSession1](48.旋转图像.java) | 数组 |
 | 53 | 最大子序和 | 简单 | [JavaSession1](53.最大子序和.java) | 数组 , 分治算法 , 动态规划 |
 | 54 | 螺旋矩阵 | 中等 | [JavaSession1](54.螺旋矩阵.java) | 数组 |
