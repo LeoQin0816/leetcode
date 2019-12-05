@@ -29,6 +29,7 @@
 | 55 | 跳跃游戏 | 中等 | [JavaSession1](55.跳跃游戏.java) | 数组 , 贪心算法 |
 | 56 | 合并区间 | 中等 | [JavaSession1](56.合并区间.java) | 数组 , 排序 |
 | 59 | 螺旋矩阵 II | 中等 | [JavaSession1](59.螺旋矩阵-ii.java) | 数组 |
+| 60 | 第k个排列 | 中等 | [JavaSession1](60.第k个排列.java) | 数学 , 回溯算法 |
 | 62 | 不同路径 | 中等 | [JavaSession1](62.不同路径.java) | 数组 , 动态规划 |
 | 63 | 不同路径 II | 中等 | [JavaSession1](63.不同路径-ii.java) | 数组 , 动态规划 |
 | 64 | 最小路径和 | 中等 | [JavaSession1](64.最小路径和.java) | 数组 , 动态规划 |
