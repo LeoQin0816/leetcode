@@ -15,6 +15,7 @@
 | 26 | Remove Duplicates from Sorted Array | Easy | [JavaSession1](26.remove-duplicates-from-sorted-array.java) | Array , Two Pointers |
 | 27 | Remove Element | Easy | [JavaSession1](27.remove-element.java) | Array , Two Pointers |
 | 28 | Implement strStr() | Easy | [JavaSession1](28.implement-str-str.java) | String , Two Pointers |
+| 29 | 两数相除 | 中等 | [JavaSession1](29.两数相除.java) | 数学 , 二分查找 |
 | 31 | Next Permutation | Medium | [JavaSession1](31.next-permutation.java) | Array |
 | 33 | Search in Rotated Sorted Array | Medium | [JavaSession1](33.search-in-rotated-sorted-array.java) | Array , Binary Search |
 | 34 | 在排序数组中查找元素的第一个和最后一个位置 | 中等 | [JavaSession1](34.在排序数组中查找元素的第一个和最后一个位置.java) | 数组 , 二分查找 |
