@@ -25,6 +25,7 @@
 | 46 | 全排列 | 中等 | [JavaSession1](46.全排列.java) | 回溯算法 |
 | 47 | 全排列 II | 中等 | [JavaSession1](47.全排列-ii.java) | 回溯算法 |
 | 48 | 旋转图像 | 中等 | [JavaSession1](48.旋转图像.java) | 数组 |
+| 50 | Pow(x, n) | 中等 | [JavaSession1](50.pow-x-n.java) | 数组 , 二分查找 |
 | 53 | 最大子序和 | 简单 | [JavaSession1](53.最大子序和.java) | 数组 , 分治算法 , 动态规划 |
 | 54 | 螺旋矩阵 | 中等 | [JavaSession1](54.螺旋矩阵.java) | 数组 |
 | 55 | 跳跃游戏 | 中等 | [JavaSession1](55.跳跃游戏.java) | 数组 , 贪心算法 |
