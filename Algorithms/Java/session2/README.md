@@ -6,6 +6,7 @@
 | :- | :- | :-: | :-: | :- |
 | 1 | 两数之和 | 简单 | [JavaSession2](1.两数之和.java) | 数组 , 哈希表 |
 | 2 | 两数相加 | 中等 | [JavaSession2](2.两数相加.java) | 链表 , 数学 |
+| 3 | 无重复字符的最长子串 | 中等 | [JavaSession2](3.无重复字符的最长子串.java) | 哈希表 , 双指针 , 字符串 , 滑动窗口 |
 | 7 | Reverse Integer | Easy |[JavaSession2](7.reverse-integer.java) | Math |
 | 9 | Palindrome Number | Easy | [JavaSession2](9.palindrome-number.java) | Math |
 | 14 | Longest Common Prefix| Easy | [JavaSession2](14.longest-common-prefix.java) | String |
